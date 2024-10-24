@@ -43,8 +43,8 @@ A thorough understanding of computer hardware components is essential for optimi
 
 ### **Related Notes**
 
-- [[CPU (Central Processing Unit).md]] <-already made
-- [[Memory Hierarchy.md]]
-- [[Solid State Drives (SSD).md]] <-already made
-- [[What is a Network.md]] <-already made
-- [[Computer Hardware Components.md]]
+- [[CPU (Central Processing Unit)]]
+- [Memory Hierarchy](Memory%20Hierarchy.md)
+- [SSD (Solid State Drive)](SSD%20(Solid%20State%20Drive).md)
+- [What is a Network](What%20is%20a%20Network.md)
+- [Computer Hardware Components](Computer%20Hardware%20Components.md)

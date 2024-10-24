@@ -35,6 +35,6 @@ A deep understanding of various lock types not only aids in effective lock picki
 - [[Smart Locks]]
 - [[Lock Pins]]
 - [[History of Lock Picking]]
-- [[Access Control Systems]]
+- [[ZettleKasten/Access Control Systems]]
 - [[Lock Picking Tools]]
 - [[Anti-Pick Features in Locks]]

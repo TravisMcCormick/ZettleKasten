@@ -36,7 +36,7 @@ The history of lock picking mirrors the perpetual arms race between lock manufac
 
 ### **Related Notes**
 
-- [[Lock Picking]]
+- [[ZettleKasten/Lock Picking]]
 - [[Lock Types]]
 - [[Lock Picking as a Hobby]]
 - [[Ethics in Lock Picking]]

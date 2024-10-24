@@ -38,5 +38,5 @@ Lock Sport transforms lock picking from a mere technical skill into a rewarding 
 - [[Legal Aspects of Lock Picking]]
 - [[Importance of Practice in Lock Picking]]
 - [[Responsible Use of Lock Picking]]
-- [[Lock Picking]]
+- [[ZettleKasten/Lock Picking]]
 - [[Lock Picking Techniques]]

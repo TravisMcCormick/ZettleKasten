@@ -1,0 +1,101 @@
+Tags: #cybersecurity #network-security #encryption #threat-intelligence #best-practices #SIEM
+
+### Overview
+
+This comprehensive map covers various aspects of cybersecurity, including network security, authentication and authorization, encryption, threat intelligence, and best practices. It aims to provide a robust understanding of protecting digital assets against a wide range of threats.
+#### Network Security
+
+- [[Firewall Configuration Best Practices]]
+- [[Firewall Deployment Architectures]]
+- [[Firewall Logs and Monitoring]]
+- [[Firewall Policies and Rules]]
+- [[Firewalls and IDS Integration]]
+- [[Firewalls and SSH]]
+- [[Firewalls and VPN Integration]]
+- [[Firewall Security Risks and Vulnerabilities]]
+- [[Firewalls in Defense-in-Depth Strategy]]
+- [[Firewalls in Home Networks]]
+- [[Future of Firewalls]]
+- [[Hardware vs. Software Firewalls]]
+- [[Intrusion Detection Systems (IDS)]]
+- [[Intrusion Detection Systems (IDS) vs. Firewalls]]
+- [[Network Security Best Practices]]
+- [[Next-Generation Firewall (NGFW)]]
+- [[Proxy Firewall]]
+- [[Security Information and Event Management (SIEM)]]
+- [[Stateful Inspection Firewall]]
+- [[Types of Firewalls]]
+- [[Unified Threat Management (UTM) Firewall]]
+
+#### Authentication & Authorization
+
+- [[Authentication and Authorization]]
+- [[Authentication Mechanisms]]
+- [[Implement Two-Factor Authentication (2FA)]]
+- [[Implement File and Folder Permissions]]
+- [[Implement Network Segmentation]]
+- [[Implement SELinux or AppArmor (Linux)]]
+- [[Implement Account Auditing]]
+- [[Implement Application Whitelisting]]
+- [[Set Account Lockout Policies]]
+- [[Remove Unauthorized Users and Groups]]
+- [[Restrict Anonymous Access]]
+
+#### Encryption & Cryptography
+
+- [[Cryptographic Algorithms]]
+- [[Cryptographic Key Management]]
+- [[Cryptographic Protocols]]
+- [[Data Encryption Techniques]]
+- [[Encrypt Sensitive Data]]
+- [[Encryption Standards]]
+- [[Hash Functions]]
+- [[Symmetric vs. Asymmetric Encryption]]
+- [[TLS - SSL Protocols]]
+- [[Public Key Infrastructure (PKI)]]
+
+#### Threat Intelligence & Response
+
+- [[Cyber Threat Intelligence]]
+- [[Incident Response Process]]
+- [[Malware Analysis Strategies]]
+- [[Malware Analysis Techniques]]
+- [[Perform Vulnerability Scanning]]
+- [[Run Antivirus Scan]]
+- [[ZettleKasten/Reverse Engineering]]
+- [[Techniques for Reverse Engineering]]
+
+#### Security Best Practices
+
+- [[Audit Installed Applications]]
+- [[Backup Configurations]]
+- [[Change Default Passwords]]
+- [[Check for Unauthorized Services and Processes]]
+- [[Check for Unsecured Remote Connections]]
+- [[Check Open Ports and Close Unused Ones]]
+- [[Configure Browser Security Settings]]
+- [[Configure DNS Settings to Use Trusted Servers]]
+- [[Configure Firewall Rules]]
+- [[Configure Password Policies]]
+- [[Configure Security Templates and Baselines]]
+- [[Disable Auto-Run and Auto-Play Features]]
+- [[Disable Guest Accounts]]
+- [[Disable Unnecessary Network Services]]
+- [[Disable Unnecessary Startup Programs]]
+- [[Harden Email Client Settings]]
+- [[Implement Secure Remote Desktop Settings]]
+- [[Implement Secure Shared Folders and Permissions]]
+- [[Implement Secure SSH Configuration (Linux)]]
+- [[Secure BIOS & UEFI Settings]]
+- [[Secure Database Services]]
+- [[Secure Web Practices]]
+- [[Set Up Centralized Logging]]
+- [[Set Up Group Policies (Windows)]]
+- [[Set Up Intrusion Detection Systems (IDS)]]
+- [[Update Hosts File]]
+- [[Update the System]]
+- [[Verify System Time and Timezone Settings]]
+- [[Web Security Best Practices]]
+- [[Protecting Your IP Address]]
+- [[Security and Privacy of IP Addresses]]
+- [[Remove Unauthorized Users and Groups]]

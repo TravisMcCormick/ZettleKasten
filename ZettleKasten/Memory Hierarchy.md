@@ -31,7 +31,7 @@ Understanding the memory hierarchy is crucial for optimizing application perform
 
 ### **Related Notes**
 
-- [[CPU (Central Processing Unit]]
+- [CPU (Central Processing Unit)](CPU%20(Central%20Processing%20Unit).md)
 - [SSD (Solid State Drive)](SSD%20(Solid%20State%20Drive).md)
 - [[RAM (Random Access Memory)]]
 - [[Storage Area Networks]]

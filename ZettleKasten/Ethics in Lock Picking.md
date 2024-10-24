@@ -31,6 +31,6 @@ Ethics form the foundation of responsible lock picking. Upholding high ethical s
 - [[Responsible Use of Lock Picking]]
 - [[Legal Aspects of Lock Picking]]
 - [[Lock Picking as a Hobby]]
-- [[Lock Picking]]
+- [[ZettleKasten/Lock Picking]]
 - [[Lock Picking Techniques]]
 - [[Ethics in Lock Picking]]

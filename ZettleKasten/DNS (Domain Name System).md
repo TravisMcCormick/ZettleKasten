@@ -28,4 +28,4 @@
 - [[DNS Security Extensions (DNSSEC)]]
 - [[How IP Addresses Facilitate Communication]]
 - [[Domain Name Registration]]
-- [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
+- [What is an IP Address](What%20is%20an%20IP%20Address.md)

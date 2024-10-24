@@ -32,4 +32,4 @@
 - [[Docker]]
 - [[Virtualization vs. Containerization]]
 - [[Server Security Best Practices]]
-- [Cloud Computing](Cloud%20Computing.md)
+- [Cloud Computing](ZettleKasten/Cloud%20Computing.md)
