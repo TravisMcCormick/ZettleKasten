@@ -1,22 +1,26 @@
-Tags: #system-administration #firewall-configuration #password-policies #logging #group-policies #system-updates
+**Tags**: #systemadministration #linux #commandline #scripting #textprocessing #shell #tools
 
 ### Overview
 
-Provides comprehensive guides and best practices for managing and maintaining computer systems. Topics include firewall configurations, password policies, logging, group policies, and system updates to ensure optimal performance and security.
+This note covers key concepts in system administration, focusing on proficiency with operating systems, particularly Linux. It includes basics of the command line, shell scripting, and the use of text processing utilities essential for managing and automating system tasks.
 
----
+#### Topics
 
-- [[Configure Firewall Rules]]
-- [[Configure Password Policies]]
-- [[Configure DNS Settings to Use Trusted Servers]]
-- [[Set Up Centralized Logging]]
-- [[Set Up Group Policies (Windows)]]
-- [[Set Up Intrusion Detection Systems (IDS)]]
-- [[Update Hosts File]]
-- [[Update the System]]
-- [[Verify System Time and Timezone Settings]]
-- [[Disable Auto-Run and Auto-Play Features]]
-- [[Disable Guest Accounts]]
-- [[Disable Unnecessary Network Services]]
-- [[Disable Unnecessary Startup Programs]]
-- [[Harden Email Client Settings]]
+- [[Linux Command Line Basics]]
+- [[Linux File System]]
+- [[Linux Shell Scripting Basics]]
+- [[Shell Scripting Basics]]
+- [[Text Processing Utilities]]
+- [[grep Command]]
+- [[sed Command]]
+- [[awk Command]]
+- [[Cron Jobs]]
+- [[tmux]]
+- [[Neovim]]
+- [[Oh My Zsh]]
+- [[zsh plugins]]
+- [[st terminal]]
+- [[Alacritty terminal]]
+- [[Package Management with APT]]
+- [[Ubuntu]]
+- [[Ubuntu Server]]

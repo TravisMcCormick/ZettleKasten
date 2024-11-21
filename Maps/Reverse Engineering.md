@@ -1,31 +1,26 @@
-Tags: #reverse-engineering #decompilation #binary-analysis #Ghidra #BinaryNinja #IDAPro #HexRays
+**Tags**: #reverseengineering #softwareanalysis #debugging #decompilation #ghidra #binaryninja #idapro #obfuscation
 
 ### Overview
 
-Focuses on the techniques and tools used to deconstruct and analyze software and hardware systems. This map includes detailed studies of reverse engineering tools like Ghidra, Binary Ninja, and IDA Pro, as well as methodologies for understanding and improving system security.
-#### Tools
+This note delves into the field of reverse engineering software, covering techniques for analyzing binaries to understand their functionality, including static and dynamic analysis. It discusses tools such as Ghidra, Binary Ninja, and IDA Pro, and explores anti-debugging techniques and software obfuscation methods.
 
-- [[Binary Ninja]]
-- [[Binary Ninja Plugins]]
-- [[Binary Ninja Shortcuts]]
+#### Topics
+
+- [[ZettleKasten/Reverse Engineering]]
+- [[Techniques for Reverse Engineering]]
+- [[Dynamic vs. Static Analysis]]
+- [[Anti-Debugging Techniques]]
+- [[Decompilation Theory]]
 - [[Ghidra]]
 - [[Ghidra Decompiler]]
 - [[Ghidra Plugins]]
 - [[Ghidra Shortcuts]]
-- [[IDA Free]]
+- [[Binary Ninja]]
+- [[Binary Ninja Plugins]]
+- [[Binary Ninja Shortcuts]]
 - [[IDA Pro]]
+- [[IDA Free]]
 - [[IDA Pro Plugins]]
 - [[IDA Pro Shortcuts]]
-- [[Hex-Rays Decompiler]]
-
-#### Techniques
-
-- [[Decompilation Theory]]
-- [[Deeper Hooks]]
-- [[Emulation in Reverse Engineering]]
-- [[Techniques for Reverse Engineering]]
-- [[Offset Hooks]]
-
-#### Comparative Analysis
-
 - [[Differences Between Ghidra, Binary Ninja, and IDA]]
+- [[Software Obfuscation Methods]]

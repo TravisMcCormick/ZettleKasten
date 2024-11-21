@@ -1,12 +1,17 @@
-Tags: #cloud-computing #cloud-security #disaster-recovery #cloud-storage #firewall-as-a-service
+**Tags**: #cloudcomputing #cloud #virtualization #disasterrecovery #storage #availability #cloudnative
 
 ### Overview
 
-Explores the principles and services of cloud computing, including cloud-based security solutions, disaster recovery strategies, and storage options. This map provides insights into leveraging cloud technologies to enhance scalability, reliability, and security.
+This note explores cloud computing concepts, including cloud infrastructure, virtualization technologies, disaster recovery planning, cloud storage solutions, and strategies for achieving high availability and minimal downtime in cloud-native applications.
 
-### Included Notes
+#### Topics
 
-- [[Cloud-based Firewall (Firewall as a Service)]]
 - [[ZettleKasten/Cloud Computing]]
 - [[Cloud Disaster Recovery]]
 - [[Cloud Storage Solutions]]
+- [[Disaster Recovery Planning]]
+- [[Virtualization Technologies]]
+- [[Storage Area Networks]]
+- [[Verison Paper 1 - Advanced technique for network data collection and standardization to assess network performance and reliability]]
+- [[Verison Paper 2 - Evaluate Solutions for Achieving High Availability or Near Zero Downtime for Cloud Native Enterprise Applications]]
+- [[Verison Paper 3 - Advanced technique for network data collection and standardization to assess network performance and reliability]]
