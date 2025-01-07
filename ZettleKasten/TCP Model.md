@@ -1,6 +1,15 @@
 **Tags:** #Networking #Protocols #TCPIPModel
 
 ---
+**More Details:**
+
+- **How It Works:** TCP sends data in a specific order and makes sure each piece of information reaches the other computer. If something is missing or arrives out of order, TCP will resend it.
+- **Connection-Oriented:** Before sending data, TCP establishes a connection between the two computers. They agree on how to communicate before any actual data is sent.
+- **Reliability:** TCP ensures that all data arrives correctly and in the right order, making it very reliable.
+- **Uses:** TCP is used when accuracy is crucial, such as:
+    - **Web Browsing:** Loading websites where all the information needs to be correct.
+    - **Email:** Sending messages where you need to make sure the entire email arrives.
+- **Example:** Imagine TCP as sending a series of numbered letters through the mail. If a letter gets lost, you know exactly which one it was and can resend it, ensuring your friend gets the complete message in order.
 
 ### **Definition**
 

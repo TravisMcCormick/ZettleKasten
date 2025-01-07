@@ -1,0 +1,6 @@
+- **How It Works:** UDP sends messages called "datagrams" from one computer to another. Each datagram is sent independently, without checking if the other computer received it.
+- **Speed vs. Reliability:** Because UDP doesn't wait to confirm receipt, it can send data very quickly. However, sometimes messages might get lost or arrive out of order.
+- **Uses:** UDP is great for things that need fast communication and can handle some lost data. For example:
+    - **Online Games:** Quick updates are needed to keep the game running smoothly.
+    - **Live Streaming:** Videos and audio need to be sent in real-time, so a few lost packets won’t ruin the experience.
+- **Example:** Think of UDP like shouting messages across a playground. It’s fast, but sometimes your friends might not hear every word you say.

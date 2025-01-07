@@ -21,8 +21,11 @@
 
 ### Personal Insight
 
-**DNS is fundamental to the functionality of the internet**, yet it's often overlooked despite being a common target for cyberattacks. Understanding DNS security measures like DNSSEC is crucial for maintaining both accessibility and safety online.
-
+- **How It Works:** DNS translates human-friendly website names (like [www.google.com](http://www.google.com)) into computer-friendly IP addresses (like 172.217.16.196). This way, your computer knows where to send requests.
+- **Hierarchy of DNS Servers:** DNS operates through a system of servers. When you type a website name, your computer asks a DNS server to find the corresponding IP address. If that server doesn’t know, it asks other servers until it finds the right one.
+- **Caching:** To make things faster, DNS servers often remember (cache) recent translations so they don’t have to look them up again right away.
+- **Uses:** Every time you visit a website, send an email, or use an app that connects to the internet, DNS is working behind the scenes to direct your request to the right place.
+- **Example:** Imagine you want to visit your friend’s house but only know their name. You ask a librarian (DNS server) to look up their address (IP address). The librarian might check their own books or ask other librarians until they find the right address for you.
 ### Related Notes
 
 - [[DNS Security Extensions (DNSSEC)]]
