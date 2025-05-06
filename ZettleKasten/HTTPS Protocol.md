@@ -81,5 +81,5 @@
 - [[Digital Certificates]]
 - [[Symmetric vs. Asymmetric Encryption]]
 - [[Application Layer]]
-- [Transport Layer Security (TLS)](Transport%20Layer%20Security%20(TLS))]
+- [Transport Layer Security (TLS)](Transport%20Layer%20Security%20(TLS).md)]
 - [[Web Security Best Practices]]

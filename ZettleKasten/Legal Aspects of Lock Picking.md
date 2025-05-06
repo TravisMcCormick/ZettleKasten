@@ -36,6 +36,6 @@ Navigating the legal landscape of lock picking is crucial for enthusiasts and pr
 - [[Ethics in Lock Picking]]
 - [[Responsible Use of Lock Picking]]
 - [[Lock Picking as a Hobby]]
-- [[ZettleKasten/Lock Picking]]
+- [[Lock Picking]]
 - [[Security Measures Against Lock Picking]]
 - [[Legal Aspects of Lock Picking]]

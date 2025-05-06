@@ -42,7 +42,7 @@ Surveillance systems, when effectively integrated with lock security measures, c
 ### **Related Notes**
 
 - [[Alarm Systems and Lock Security]]
-- [[ZettleKasten/Access Control Systems]]
+- [[Access Control Systems]]
 - [[Security Measures Against Lock Picking]]
 - [[High-Security Locks]]
 - [[Biometric Locks]]

@@ -56,11 +56,3 @@ The **WebSocket Protocol** is a computer communications protocol that provides f
 ### Personal Insight
 
 **The WebSocket Protocol has significantly enhanced web applications**, enabling seamless real-time communication. Its efficiency and low latency make it ideal for modern interactive applications, but it requires careful implementation to ensure security and reliability.
-
-### Related Notes
-
-- [[HTTP/2 and HTTP/3 Protocols]]
-- [[Server-Sent Events (SSE)]]
-- [[Real-Time Web Technologies]]
-- [[Asynchronous Programming in JavaScript]]
-- [[Web Application Security Practices]]

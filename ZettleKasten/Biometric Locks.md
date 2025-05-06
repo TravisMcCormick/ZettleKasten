@@ -39,7 +39,7 @@ Biometric locks represent the forefront of security technology, blending conveni
 
 ### **Related Notes**
 
-- [[ZettleKasten/Access Control Systems]]
+- [[Access Control Systems]]
 - [[Smart Locks]]
 - [[High-Security Locks]]
 - [[Security Measures Against Lock Picking]]

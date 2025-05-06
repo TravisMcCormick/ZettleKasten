@@ -41,7 +41,7 @@ Alarm systems are indispensable in modern security setups, offering dynamic and 
 
 ### **Related Notes**
 
-- [[ZettleKasten/Access Control Systems]]
+- [[Access Control Systems]]
 - [[Surveillance and Lock Security]]
 - [[High-Security Lock Features]]
 - [[Anti-Pick Features in Locks]]

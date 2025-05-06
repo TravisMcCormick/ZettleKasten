@@ -57,6 +57,3 @@
 ### Related Notes
 
 - [[Computer Architecture Basics]]
-- [[Storage Technologies]]
-- [[Hardware Upgrades]]
-- [[High-Performance Computing (HPC)]]

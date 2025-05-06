@@ -74,6 +74,3 @@
 ### Related Notes
 
 - [[Computer Architecture Basics]]
-- [[Assembly Language Programming]]
-- [[Processor Design]]
-- [[Hardware Abstraction Layers]]

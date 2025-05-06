@@ -53,5 +53,5 @@
 - [[Business Continuity PLanning]]
 - [[Risk Management]]
 - [[Data Backup Strategies]]
-- [Cloud Disaster Recovery](Cloud%20Disaster%20Recovery)
+- [Cloud Disaster Recovery](Cloud%20Disaster%20Recovery.md)
 - [[Incident Response Process]]

@@ -52,7 +52,4 @@
 
 ### Related Notes
 
-- [[Network Protocols]]
-- [[Bandwidth Management Techniques]]
-- [[VoIP Technologies]]
 - [[Network Troubleshooting]]

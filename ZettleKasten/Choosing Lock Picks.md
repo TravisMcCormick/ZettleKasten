@@ -49,5 +49,5 @@
 
 - [[Lock Pins]]
 - [[General Advice on Lock Picking Tools]]
-- [Physical Security Measures](Physical%20Security%20Measures)
+- [Physical Security Measures](Physical%20Security%20Measures.md)
 - [Lock Picking Techniques](Lock%20Picking%20Techniques.md)

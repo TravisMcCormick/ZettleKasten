@@ -1,0 +1,6 @@
+
+---
+
+Self-contained Go binary.
+
+---

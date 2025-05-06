@@ -41,7 +41,7 @@ Smart locks epitomize the convergence of traditional security measures with mode
 ### **Related Notes**
 
 - [[Biometric Locks]]
-- [[ZettleKasten/Access Control Systems]]
+- [[Access Control Systems]]
 - [[High-Security Locks]]
 - [[Security Measures Against Lock Picking]]
 - [[Lock Types]]
