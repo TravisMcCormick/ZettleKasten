@@ -16,5 +16,5 @@ go func() {
 
 ---
 ### Related Notes:
-- [What Is an OS Thread?](What%20Is%20an%20OS%20Thread?.md)
-- [Why You Must Coordinate Completion](Why%20You%20Must%20Coordinate%20Completion.md)
+- [[What Is an OS Thread]]
+- [[Why You Must Coordinate Completion]]

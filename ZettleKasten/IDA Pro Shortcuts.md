@@ -115,7 +115,3 @@
 ### Related Notes
 
 - [[IDA Pro Plugins]]
-- [[Reverse Engineering Techniques]]
-- [[Software Analysis Tools]]
-- [[Automation in Reverse Engineering]]
-- [[Ghidra Integration]]

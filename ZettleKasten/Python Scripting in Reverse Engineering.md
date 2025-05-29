@@ -58,5 +58,4 @@
 
 - [[Techniques for Reverse Engineering]]
 - [[Python Regex]]
-- [[Dynamic Analysis Tools]]
 - [[Malware Analysis Techniques]]

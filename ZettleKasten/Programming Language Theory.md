@@ -61,9 +61,4 @@
 
 **Programming Language Theory provides the foundational understanding needed to evaluate and choose the right language or paradigm for a given problem**, influencing the way we think about and solve computational tasks.
 
-### Related Notes
-
-- [[Functional Programming Concepts]]
-- [[Type Systems and Type Safety]]
-- [[Compiler Design]]
-- [[Language Paradigms]]
+---

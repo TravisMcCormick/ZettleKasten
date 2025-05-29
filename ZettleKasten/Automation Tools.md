@@ -63,6 +63,3 @@
 ### Related Notes
 
 - [[Continuous Deployment]]
-- [[DevOps Tools]]
-- [[Workflow Automation]]
-- [[IT Infrastructure Management]]

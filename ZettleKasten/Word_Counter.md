@@ -1,10 +1,4 @@
 ---
-pageId: "251265219"
-spaceId: "250642439"
-confluenceUrl: https://everypeer.atlassian.net/wiki/spaces/TS/pages/251265219/Word_Counter
-
----
----
 
 Description: Takes a string as an input and then uses a map to count each instance of a word to give a total tally
 

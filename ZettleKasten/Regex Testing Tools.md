@@ -61,4 +61,3 @@
 - [[Python Regex]]
 - [[Input Validation Techniques]]
 - [[Text Processing Utilities]]
-- [[Data Parsing Techniques]]

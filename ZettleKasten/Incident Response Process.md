@@ -129,5 +129,3 @@ The **Incident Response Process** is a structured approach used by organizations
 - [[Cyber Threat Intelligence]]
 - [[Security Information and Event Management (SIEM)]]
 - [[Disaster Recovery Planning]]
-- [[Vulnerability Management]]
-- [[Security Operations Center (SOC)]]

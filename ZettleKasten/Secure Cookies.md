@@ -49,7 +49,4 @@
 
 ### Related Notes
 
-- [[Web Application Security]]
-- [[Cross-Site Scripting (XSS) Prevention]]
-- [[Cross-Site Request Forgery (CSRF) Protection]]
 - [[Secure Communication]]

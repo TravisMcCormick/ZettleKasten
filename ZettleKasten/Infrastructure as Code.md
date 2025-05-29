@@ -56,6 +56,3 @@
 ### Related Notes
 
 - [[Version Control Systems]]
-- [[Continuous Integration and Continuous Deployment (CI/CD)]]
-- [[Configuration Management Tools]]
-- [[Cloud Computing Services]]

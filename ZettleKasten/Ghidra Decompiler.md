@@ -103,8 +103,5 @@ The **Ghidra Decompiler** is a powerful feature within the Ghidra software rever
 
 ### Related Notes
 
-- [[Reverse Engineering Techniques]]
-- [[Static vs. Dynamic Analysis]]
 - [[Ghidra Plugins]]
-- [[Malware Analysis Tools]]
 - [[Software Obfuscation Methods]]

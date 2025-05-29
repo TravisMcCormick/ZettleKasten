@@ -40,5 +40,5 @@ func (a *Account) SetOwner(name string) {
 
 ---
 ### Related Notes:
-- [Go Structs vs. C++ Classes](Go%20Structs%20vs.%20C++%20Classes.md)
-- [Best Practices for Go Structures](Best%20Practices%20for%20Go%20Structures.md)
+- [[Go Structs vs. C++ Classes]]
+- [[Best Practices for Go Structures]]

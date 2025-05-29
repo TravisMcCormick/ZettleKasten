@@ -32,7 +32,5 @@ Understanding MAC addresses is essential for network troubleshooting and securit
 - [[Switches and Hubs]]
 - [[Address Resolution Protocol (ARP)]]
 - [[Network Nodes]]
-- [IP Addresses](IP%20Addresses%20and%20Management.md)
 - [[Networking Protocols]]
-- [[Networking Fundamentals and Architecture]]
 - [[Ethernet Protocol]]

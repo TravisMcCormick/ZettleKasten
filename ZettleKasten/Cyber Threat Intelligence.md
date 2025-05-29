@@ -77,10 +77,4 @@
 
 **Cyber Threat Intelligence is a critical component of modern cybersecurity strategies**, enabling organizations to anticipate, detect, and respond to threats proactively. By leveraging diverse intelligence sources and integrating CTI into security operations, organizations can enhance their resilience against sophisticated cyber adversaries.
 
-### Related Notes
-
-- [[Incident Response Planning]]
-- [[Security Information and Event Management]]
-- [[Vulnerability Management]]
-- [[Threat Hunting Techniques]]
-- [[Malware Analysis]]
+---

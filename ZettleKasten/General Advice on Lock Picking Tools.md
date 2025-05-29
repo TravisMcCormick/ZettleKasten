@@ -89,8 +89,6 @@
 
 ### Related Notes
 
-- [[Lock Mechanisms]]
 - [[Physical Security Measures]]
 - [[Legal Aspects of Lock Picking]]
-- [[Locksmithing Techniques]]
 - [[High-Security Locks]]

@@ -1,14 +1,3 @@
----
-pageId: "251265171"
-spaceId: "250642439"
-confluenceUrl: https://everypeer.atlassian.net/wiki/spaces/TS/pages/251265171/File_Word_Count
-
----
----
-
-Description: Same as Word_Count but with a file instead of an inputted string
-
----
 
 ```go
 package main

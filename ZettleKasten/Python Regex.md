@@ -90,6 +90,4 @@
 ### Related Notes
 
 - [[Text Processing Utilities]]
-- [[Data Parsing Techniques]]
-- [[String Manipulation in Python]]
 - [[Regex Testing Tools]]

@@ -71,5 +71,3 @@
 
 - [[Storage Area Networks]]
 - [[Data Backup Strategies]]
-- [[Network Fundamentals]]
-- [[File System Permissions]]

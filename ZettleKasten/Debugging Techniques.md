@@ -97,8 +97,4 @@
 
 ### Related Notes
 
-- [[Software Testing Strategies]]
-- [[Version Control Best Practices]]
 - [[Secure Coding Practices]]
-- [[Automated Deployment Pipelines]]
-- [[Error Handling Mechanisms]]

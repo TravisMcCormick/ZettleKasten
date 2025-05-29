@@ -52,5 +52,4 @@
 
 - [[Physical Security Measures]]
 - [[Tension Tools]]
-- [[Security Best Practices]]
 - [[Access Control Systems]]

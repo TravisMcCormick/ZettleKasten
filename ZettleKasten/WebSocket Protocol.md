@@ -79,8 +79,5 @@
 
 ### Related Notes
 
-- [[Docker Fundamentals]]
-- [[Kubernetes Overview]]
 - [[Microservices Architecture]]
 - [[Infrastructure as Code]]
-- [[Hypervisor Security Practices]]

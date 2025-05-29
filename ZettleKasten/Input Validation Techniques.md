@@ -81,6 +81,3 @@
 ### Related Notes
 
 - [[Secure Coding Practices]]
-- [[Web Application Security]]
-- [[Regular Expressions in Validation]]
-- [[Cross-Site Scripting (XSS) Prevention]]

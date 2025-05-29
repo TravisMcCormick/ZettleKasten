@@ -5,5 +5,5 @@ A bolt-on for WireGuard is an external service or system that augments WireGuard
 
 ---
 ### **Related Notes:**
-- [Wireguard](Wireguard.md)
-- [WireGuard Tunnel](WireGuard%20Tunnel.md)
+- [[Wireguard]]
+- [[Wireguard Tunnel]]

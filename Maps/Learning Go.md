@@ -1,30 +1,29 @@
 
 ---
 ### Terminology
-- [Skinny Go](Skinny%20Go.md)
-- [Fat Go](Fat%20Go.md)
-- [API](API.md)
+- [[Skinny Go]]
+- [[Fat Go]]
+- [[API]]
 
 ---
 ### Overviews
-- [Go Functions Overview](Go%20Functions%20Overview.md)
-- [Go Structs Overview](Go%20Structs%20Overview.md)
-- [Go Concurrency Overview](Go%20Concurrency%20Overview.md)
-
+- [[Go Functions Overview]]
+- [[Go Structs Overview]]
+- [[Go Concurrency Overview]]
 ---
-### Syntax
-- [fmt](fmt.md)
-- [os](os.md)
+### Modules
+- [[fmt]]
+- [[os]]
 
 ---
 ### Projects
-- [How to Create a Go Project](How%20to%20Create%20a%20Go%20Project.md)
-- [Hello_World_Project](Hello_World_Project.md)
-- [Word_Counter](Word_Counter.md)
-- [File_Word_Count](File_Word_Count.md)
+- [[How to Create a Go Project]]
+- [[Hello_World_Project]]
+- [[Word_Counter]]
+- [[File_Word_Count]]
 
 ---
 ### Project Structure
-- [Typical_Repo_Structure](Typical_Repo_Structure.md)
+- [[Typical_Repo_Structure]]
 
 ---

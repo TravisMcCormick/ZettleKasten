@@ -107,8 +107,5 @@
 
 ### Related Notes
 
-- [[Secure File Transfer Methods]]
-- [[Network Security Protocols]]
-- [[Firewall Configuration for FTP]]
 - [[Authentication Mechanisms]]
 - [[Data Encryption Techniques]]

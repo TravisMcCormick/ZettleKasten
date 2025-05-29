@@ -55,6 +55,4 @@ Networking protocols are the languages of the internet. Understanding them is ke
 - [[TCP Model]]
 - [[Data Link Layer]]
 - [[Routers]]
-- [[Network Security]]
-- [IP Addresses and Management](IP%20Addresses%20and%20Management.md)]
 - [[Network Nodes]]

@@ -57,6 +57,4 @@
 ### Related Notes
 
 - [[Secure Communication]]
-- [[Network Security Basics]]
-- [[Access Control Models]]
 - [[System Maintenance]]

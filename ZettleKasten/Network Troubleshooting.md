@@ -88,9 +88,4 @@
 
 **Effective network troubleshooting combines technical knowledge with logical problem-solving skills**. Staying methodical and patient often leads to quicker resolutions and minimizes downtime.
 
-### Related Notes
-
-- [[Network Protocols]]
-- [[TCP/IP Model]]
-- [[Network Monitoring Tools]]
-- [[IT Support Best Practices]]
+---

@@ -16,6 +16,4 @@ A **Network** is a collection of interconnected devices (nodes) that communicate
 - [[Network Topologies]]
 - [[OSI Model Overview]]
 - [[Networking Protocols]]
-- [IP Addresses](IP%20Addresses%20and%20Management.md) 
-- [[Firewalls and Network Security]] \
-- [[Networking Fundamentals and Architecture]] 
+- [[Firewalls and Network Security]] 

@@ -65,9 +65,4 @@
 
 **Neovim brings a modern touch to the classic Vim experience**, enhancing productivity for developers who prefer keyboard-centric navigation. Its active community and extensible nature make it a compelling choice for both new and seasoned users.
 
-### Related Notes
-
-- [[Vim Editor]]
-- [[Text Editing Shortcuts]]
-- [[Productivity Tools for Developers]]
-- [[Configuring Development Environments]]
+---

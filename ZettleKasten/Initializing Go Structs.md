@@ -33,5 +33,5 @@ Fields not specified are set to their zero value (e.g., `""` for strings, `0` fo
 
 ---
 ### Related Notes:
-- [Memory Management of Structs](Memory%20Management%20of%20Structs.md)
-- [Best Practices for Go Structures](Best%20Practices%20for%20Go%20Structures.md)
+- [[Memory Management of Structs]]
+- [[Best Practices for Go Structures]]

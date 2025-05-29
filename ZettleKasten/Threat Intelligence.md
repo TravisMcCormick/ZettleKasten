@@ -56,7 +56,4 @@
 
 ### Related Notes
 
-- [[Cybersecurity Best Practices]]
 - [[Security Information and Event Management (SIEM)]]
-- [[Incident Response Planning]]
-- [[Threat Modeling]]

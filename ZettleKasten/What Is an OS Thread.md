@@ -11,5 +11,5 @@
 
 ---
 ### Related Notes:
-- [What Is a Goroutine?](What%20Is%20a%20Goroutine?.md)
-- [Context-Switching (OS vs. Go)](Context-Switching%20(OS%20vs.%20Go).md)
+- [[What Is a Goroutine]]
+- [[Context-Switching (OS vs. Go)]]

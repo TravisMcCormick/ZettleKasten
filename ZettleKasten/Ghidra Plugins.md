@@ -101,7 +101,3 @@
 ### Related Notes
 
 - [[Ghidra Decompiler]]
-- [[Reverse Engineering Techniques]]
-- [[Software Analysis Tools]]
-- [[Scripting in Ghidra]]
-- [[Binary Analysis Workflows]]

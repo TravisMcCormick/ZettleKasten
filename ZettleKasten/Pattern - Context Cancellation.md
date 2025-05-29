@@ -16,4 +16,4 @@ cancel() // signals all workers to stop
 
 ---
 ### Related Notes:
-- [Goroutine Lifecycle & Natural Termination](Goroutine%20Lifecycle%20&%20Natural%20Termination.md)
+- [[Goroutine Lifecycle & Natural Termination]]

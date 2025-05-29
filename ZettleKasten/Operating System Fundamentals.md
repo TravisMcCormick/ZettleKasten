@@ -78,7 +78,4 @@
 
 ### Related Notes
 
-- [[Process Management]]
-- [[Memory Management Techniques]]
-- [[File Systems Overview]]
 - [[Virtualization Technologies]]

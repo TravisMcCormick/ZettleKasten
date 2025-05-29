@@ -57,5 +57,4 @@
 
 - [[Network Attached Storage (NAS)]]
 - [[Data Backup Strategies]]
-- [[Storage Management]]
 - [[Virtualization Technologies]]

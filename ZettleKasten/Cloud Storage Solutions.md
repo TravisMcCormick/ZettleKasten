@@ -69,5 +69,3 @@
 
 - [[Data Backup Strategies]]
 - [[Cloud Disaster Recovery]]
-- [[Data Encryption]]
-- [[Access Control Models]]

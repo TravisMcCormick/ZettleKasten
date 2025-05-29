@@ -71,5 +71,3 @@
 
 - [[Linux Command Line Basics]]
 - [[Text Processing Utilities]]
-- [[Cron Jobs and Scheduling]]
-- [[Command Line Productivity]]

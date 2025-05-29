@@ -75,7 +75,4 @@
 ### Related Notes
 
 - [[Encryption Standards]]
-- [[Public Key Infrastructure]]
-- [[Secure Communication Channels]]
 - [[Authentication Mechanisms]]
-- [[Data Integrity Methods]]

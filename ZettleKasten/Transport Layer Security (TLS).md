@@ -67,5 +67,3 @@
 
 - [[Secure Communication]]
 - [[Public Key Infrastructure (PKI)]]
-- [[SSL Certificates]]
-- [[Web Security Practices]]

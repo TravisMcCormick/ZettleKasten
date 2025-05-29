@@ -41,5 +41,4 @@ The **TCP/IP Model** is a concise framework used to design and implement network
 
 - [[Networking Protocols]]
 - [[OSI Model Overview]]
-- [IP Addresses](IP%20Addresses%20and%20Management.md)
 - [[Transport Layer]]

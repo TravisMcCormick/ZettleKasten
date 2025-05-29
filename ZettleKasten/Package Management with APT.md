@@ -82,5 +82,3 @@
 
 - [[Linux Command Line Basics]]
 - [[System Maintenance]]
-- [[Software Repositories]]
-- [[Package Management Systems]]

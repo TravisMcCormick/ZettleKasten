@@ -22,6 +22,6 @@ func main() {
 ---
 ### Related Notes:
 
-- [Passing Arguments by Value](Passing%20Arguments%20by%20Value.md)
+- [[Passing Arguments by Value]]
 
 ---

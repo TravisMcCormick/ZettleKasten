@@ -22,6 +22,6 @@ func main() {
 ---
 ### Related Notes:
 
-- [Passing Arguments by Pointer](Passing%20Arguments%20by%20Pointer.md)
+- [[Passing Arguments by Pointer]]
 
 ---

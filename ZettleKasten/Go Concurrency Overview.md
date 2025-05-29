@@ -7,13 +7,13 @@ Concurrency in Go is built around **goroutines** and **channels**, enabling ligh
 ---
 ### Related Notes:
 
-1. [What Is an OS Thread?](What%20Is%20an%20OS%20Thread?.md)
-2. [What Is a Goroutine?](What%20Is%20a%20Goroutine?.md)
-3. [Thread vs. Goroutine](Thread%20vs.%20Goroutine.md)
-4. [The Go Scheduler (G-M-P Model)](The%20Go%20Scheduler%20(G-M-P%20Model).md)
-5. [Context-Switching (OS vs. Go)](Context-Switching%20(OS%20vs.%20Go).md)
-6. [Goroutine Lifecycle & Natural Termination](Goroutine%20Lifecycle%20&%20Natural%20Termination.md)
-7. [Why You Must Coordinate Completion](Why%20You%20Must%20Coordinate%20Completion.md)
-8. [Pattern - sync.WaitGroup](Pattern%20-%20sync.WaitGroup.md)
-9. [Pattern - Channel-Fan-In](Pattern%20-%20Channel-Fan-In.md)
-10. [Pattern - Context Cancellation](Pattern%20-%20Context%20Cancellation.md)
+1. [[What Is an OS Thread]]
+2. [[What Is a Goroutine]]
+3. [[Thread vs. Goroutine]]
+4. [[The Go Scheduler (G-M-P Model)]]
+5. [[Context-Switching (OS vs. Go)]]
+6. [[Goroutine Lifecycle & Natural Termination]]
+7. [[Why You Must Coordinate Completion]]
+8. [[Pattern - sync.WaitGroup]]
+9. [[Pattern - Channel-Fan-In]]
+10. [[Pattern - Context Cancellation]]

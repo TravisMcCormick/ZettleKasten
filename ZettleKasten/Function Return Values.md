@@ -22,7 +22,7 @@ func main() {
 ---
 ### Related Notes:
 
-- [Defining and Calling a Function](Defining%20and%20Calling%20a%20Function.md)
-- [Named Return Values](Named%20Return%20Values.md)
+- [[Defining and Calling a Function]]
+- [[Named Return Values]]
 
 ---

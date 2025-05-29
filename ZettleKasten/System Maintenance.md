@@ -53,5 +53,4 @@
 
 - [[Monitoring and Logging]]
 - [[Data Backup Strategies]]
-- [[Software Updates and Patch Management]]
 - [[System Administration]]

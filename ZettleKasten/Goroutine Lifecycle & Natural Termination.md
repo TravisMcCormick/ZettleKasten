@@ -7,4 +7,4 @@
 
 ---
 ### Related Notes:
-- [Why You Must Coordinate Completion](Why%20You%20Must%20Coordinate%20Completion.md)
+- [[Why You Must Coordinate Completion]]

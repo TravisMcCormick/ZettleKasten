@@ -57,5 +57,4 @@
 
 - [[Infrastructure as Code]]
 - [[DevOps Practices]]
-- [[Change Management]]
 - [[Continuous Integration]]

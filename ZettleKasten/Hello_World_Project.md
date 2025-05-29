@@ -1,9 +1,4 @@
----
-pageId: "251265195"
-spaceId: "250642439"
-confluenceUrl: https://everypeer.atlassian.net/wiki/spaces/TS/pages/251265195/Hello_World_Project
 
----
 ---
 
 Description: Simple Hello World to show all the different prints in Go

@@ -73,7 +73,6 @@
 
 ### Related Notes
 
-- [[Command Line Productivity]]
 - [[Shell Scripting Basics]]
 - [[Remote Administration]]
 - [[Neovim]]

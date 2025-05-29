@@ -12,4 +12,4 @@ type User struct {
 
 ---
 ### Related Notes:
-- [Best Practices for Go Structures](Best%20Practices%20for%20Go%20Structures.md)
+- [[Best Practices for Go Structures]]

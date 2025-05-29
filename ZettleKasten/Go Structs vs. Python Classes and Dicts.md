@@ -13,5 +13,5 @@
 
 ---
 ### Related Notes:
-- [Defining a Struct in Go](Defining%20a%20Struct%20in%20Go.md)
-- [Initializing Go Structs](Initializing%20Go%20Structs.md)
+- [[Defining a Struct in Go]]
+- [[Initializing Go Structs]]

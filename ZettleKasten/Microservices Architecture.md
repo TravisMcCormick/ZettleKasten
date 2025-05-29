@@ -53,6 +53,4 @@
 ### Related Notes
 
 - [[DevOps Practices]]
-- [[API Design Principles]]
-- [[Distributed Systems]]
 - [[Monitoring and Logging]]

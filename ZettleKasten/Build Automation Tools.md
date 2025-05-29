@@ -73,4 +73,3 @@
 - [[Continuous Integration]]
 - [[Continuous Deployment]]
 - [[DevOps Practices]]
-- [[Dependency Management]]

@@ -6,5 +6,5 @@
 
 ---
 ### Related Notes:
-- [Pattern - sync.WaitGroup](Pattern%20-%20sync.WaitGroup.md)
-- [Pattern - Channel-Fan-In](Pattern%20-%20Channel-Fan-In.md)
+- [[Pattern - sync.WaitGroup]]
+- [[Pattern - Channel-Fan-In]]

@@ -8,3 +8,4 @@ WireGuard is a Layer 3 secure network tunnel for IPv4 and IPv6, designed to rep
 - [[WireGuard – Simplicity of Interface]]
 - [[WireGuard Cryptokey Routing and Configuration]]
 - [[WireGuard – Static Structure]]
+- [[OSI Model]]

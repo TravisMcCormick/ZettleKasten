@@ -56,7 +56,4 @@ The **suckless Philosophy** advocates for simplicity, clarity, and minimalism in
 
 ### Related Notes
 
-- [[Unix Philosophy]]
-- [[Minimalist Software]]
 - [[Open Source Software]]
-- [[Configuring Development Environments]]

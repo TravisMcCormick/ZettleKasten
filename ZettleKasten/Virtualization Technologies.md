@@ -70,10 +70,4 @@
 
 **Virtualization technologies have revolutionized IT infrastructure**, providing flexibility and efficiency. As organizations increasingly adopt cloud computing and virtualization, understanding these technologies is essential for modern IT professionals.
 
-### Related Notes
-
-- [[Cloud Computing Models]]
-- [[Hypervisor Types and Comparison]]
-- [[Containerization Technologies]]
-- [[Infrastructure as a Service (IaaS)]]
-- [[Resource Allocation in Virtual Environments]]
+---

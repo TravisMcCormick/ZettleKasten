@@ -64,6 +64,4 @@
 ### Related Notes
 
 - [[Continuous Integration]]
-- [[Quality Assurance Best Practices]]
-- [[Test Automation Frameworks]]
 - [[DevOps Practices]]

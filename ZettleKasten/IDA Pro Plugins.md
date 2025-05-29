@@ -101,7 +101,4 @@
 ### Related Notes
 
 - [[IDA Pro Shortcuts]]
-- [[Reverse Engineering Techniques]]
-- [[Software Analysis Tools]]
-- [[Automation in Reverse Engineering]]
 - [[Hex-Rays Decompiler]]

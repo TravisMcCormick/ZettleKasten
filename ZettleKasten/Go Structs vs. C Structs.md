@@ -16,5 +16,5 @@
 
 ---
 ### Related Notes:
-- [Memory Management of Structs](Memory%20Management%20of%20Structs.md)
-- [Defining a Struct in Go](Defining%20a%20Struct%20in%20Go.md)
+- [[Memory Management of Structs]]
+- [[Defining a Struct in Go]]

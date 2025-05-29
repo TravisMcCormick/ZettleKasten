@@ -65,7 +65,4 @@
 
 ### Related Notes
 
-- [[Z Shell (Zsh)]]
-- [[Command Line Productivity]]
-- [[Terminal Emulators]]
 - [[Shell Scripting Basics]]

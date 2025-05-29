@@ -47,4 +47,3 @@ Understanding the role of network nodes is fundamental to grasping how networks 
 - [[Switches and Hubs]]
 - [[Routers]]
 - [[Networking Protocols]]
-- [[Networking Fundamentals and Architecture]] 

@@ -80,5 +80,3 @@
 
 - [[Version Control Systems]]
 - [[Debugging Techniques]]
-- [[Programming Languages]]
-- [[Code Editors vs. IDEs]]

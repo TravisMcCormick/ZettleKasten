@@ -54,5 +54,4 @@
 
 - [[System Maintenance]]
 - [[Security Information and Event Management (SIEM)]]
-- [[Incident Response Planning]]
 - [[Microservices Architecture]]

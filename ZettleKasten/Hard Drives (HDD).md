@@ -25,7 +25,6 @@
 
 ### Related Notes
 
-- [[Solid State Drives (SSD)]]
 - [[Data Storage Technologies]]
 - [[Data Backup Strategies]]
 - [Storage Area Networks (SAN)](Storage%20Area%20Networks.md)

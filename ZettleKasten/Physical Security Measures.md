@@ -70,7 +70,4 @@
 
 ### Related Notes
 
-- [[Access Control Models]]
-- [[Security Policies and Procedures]]
-- [[Cybersecurity vs. Physical Security]]
 - [[Disaster Recovery Planning]]

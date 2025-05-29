@@ -25,7 +25,5 @@ The efficiency and reliability of a network heavily depend on how nodes are conf
 
 # Related Topics
 
-- [IP Addresses and Management](IP%20Addresses%20and%20Management.md)
 - [Firewalls and Network Security](Firewalls%20and%20Network%20Security.md)
-- [[Network Security]]
 - [Networking Protocols](Networking%20Protocols.md)

@@ -12,5 +12,5 @@
 
 ---
 ### Related Notes:
-- [What Is an OS Thread?](What%20Is%20an%20OS%20Thread?.md)
-- [What Is a Goroutine?](What%20Is%20a%20Goroutine?.md)
+- [[What is an OS Thread]]
+- [[What is a Goroutine]]

@@ -68,7 +68,5 @@
 
 ### Related Notes
 
-- [[Public Key Infrastructure]]
-- [[SSL/TLS Protocol]]
 - [[Digital Certificates]]
 - [[Cryptographic Key Management]]

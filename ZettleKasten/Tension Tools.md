@@ -49,6 +49,4 @@
 ### Related Notes
 
 - [[Lock Pins]]
-- [[Lockpicking Techniques]]
 - [[Physical Security Measures]]
-- [[Security Best Practices]]

@@ -32,5 +32,4 @@ An **Internet Service Provider (ISP)** is a company or organization that provide
 
 - [[Network Infrastructure]]
 - [[Bandwidth Management]]
-- [IP Addresses and Management](IP%20Addresses%20and%20Management.md)
 - [Telecommunications Regulations](Telecommunications%20Regulations.md)

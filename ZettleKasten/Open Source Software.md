@@ -70,6 +70,3 @@
 ### Related Notes
 
 - [[Version Control Systems]]
-- [[Collaborative Development Platforms]]
-- [[Software Licensing]]
-- [[Community Management]]

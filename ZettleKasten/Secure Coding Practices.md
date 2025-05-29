@@ -52,6 +52,3 @@
 ### Related Notes
 
 - [[Input Validation Techniques]]
-- [[Web Application Security]]
-- [[Threat Modeling]]
-- [[Software Development Life Cycle (SDLC)]]

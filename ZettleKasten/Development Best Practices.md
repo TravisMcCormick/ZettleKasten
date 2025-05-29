@@ -72,8 +72,4 @@
 
 ### Related Notes
 
-- [[Agile Methodologies]]
 - [[DevOps Practices]]
-- [[Secure Software Development]]
-- [[Automated Testing Frameworks]]
-- [[Code Review Techniques]]

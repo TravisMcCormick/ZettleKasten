@@ -51,6 +51,3 @@
 ### Related Notes
 
 - [[Cryptographic Protocols]]
-- [[Access Control Models]]
-- [[Identity Management]]
-- [[Security Best Practices]]

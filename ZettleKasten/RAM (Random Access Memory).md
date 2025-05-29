@@ -28,4 +28,3 @@
 - [[Virtual Memory]]
 - [[CPU (Central Processing Unit)]]
 - [[Memory Hierarchy]]
-- [Solid State Drives (SSD)](Solid%20State%20Drives%20(SSD).md)

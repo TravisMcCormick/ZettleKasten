@@ -69,6 +69,4 @@ The **Linux File System** is a hierarchical directory structure that organizes f
 ### Related Notes
 
 - [[Linux Command Line Basics]]
-- [[File System Permissions]]
-- [[Storage Management]]
 - [[System Maintenance]]

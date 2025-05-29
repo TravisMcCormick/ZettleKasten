@@ -18,5 +18,4 @@ func main() {
 ### **Key Ideas:**
 
 - Functions can return multiple values using parentheses.
-    
 - Often used in error handling and complex computations.

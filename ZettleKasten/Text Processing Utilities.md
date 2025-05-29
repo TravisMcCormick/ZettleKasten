@@ -78,6 +78,3 @@
 ### Related Notes
 
 - [[Shell Scripting Basics]]
-- [[Regular Expressions in Validation]]
-- [[Command Line Productivity]]
-- [[Data Parsing Techniques]]

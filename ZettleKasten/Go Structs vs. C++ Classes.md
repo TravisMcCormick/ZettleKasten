@@ -30,6 +30,6 @@ d.WagTail()
 
 ---
 ### Related Notes:
-- [Defining a Struct in Go](Defining%20a%20Struct%20in%20Go.md)
-- [Embedding (Composition)](Embedding%20(Composition).md)
-- [Interfaces](Interfaces.md)
+- [[Defining a Struct in Go]]
+- [[Embedding (Composition)]]
+- [[Interfaces]]

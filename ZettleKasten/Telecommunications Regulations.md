@@ -52,9 +52,4 @@
 
 **Understanding telecommunications regulations is essential for providers and businesses in the communication sector**, ensuring compliance and adapting to legal obligations while fostering innovation.
 
-### Related Notes
-
-- [[Network Security Basics]]
-- [[Data Privacy Laws]]
-- [[Spectrum Allocation]]
-- [[Internet Governance]]
+---

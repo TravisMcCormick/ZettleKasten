@@ -67,7 +67,5 @@
 
 ### Related Notes
 
-- [[Business Continuity Planning]]
 - [[Cloud Storage Solutions]]
 - [[Data Backup Strategies]]
-- [[IT Resilience]]

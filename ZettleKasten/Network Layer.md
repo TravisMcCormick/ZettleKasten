@@ -14,7 +14,6 @@ The **Network Layer** manages data routing, packet forwarding, and logical addre
 
 #### **Related Notes**
 
-- [IP Addresses and Management](IP%20Addresses%20and%20Management.md)
 - [[Routing Protocols]]
 - [[Data Link Layer]]
 - [[Transport Layer]]

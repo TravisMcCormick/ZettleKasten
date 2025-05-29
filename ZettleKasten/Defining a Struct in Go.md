@@ -24,5 +24,5 @@ fmt.Println(p.Name, p.Age)
 
 ---
 ### Related Notes:
-- [Initializing Go Structs](Initializing%20Go%20Structs.md)
-- [Best Practices for Go Structures](Best%20Practices%20for%20Go%20Structures.md)
+- [[Initializing Go Structs]]
+- [[Best Practices for Go Structures]]
