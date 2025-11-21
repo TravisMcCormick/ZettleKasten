@@ -1,4 +1,4 @@
-**Tags**: #ReverseEngineering #Ghidra #Disassembly #Decompilation
+**Tags:** #reverse-engineering #binary-analysis #tools #decompilation #disassembly
 
 ---
 
@@ -23,9 +23,13 @@
 
 **Ghidra has rapidly become a popular choice in the reverse engineering community**, offering powerful features comparable to commercial tools at no cost.
 
-### Related Notes
+### **Related Notes**
 
 - [[IDA Pro]]
 - [[Binary Ninja]]
-- [Techniques for Reverse Engineering](Techniques%20for%20Reverse%20Engineering.md)
-- [Ghidra Shortcuts](Ghidra%20Shortcuts.md)
+- [[Techniques for Reverse Engineering]]
+- [[Ghidra Shortcuts]]
+- [[Ghidra Plugins]]
+- [[Ghidra Decompiler]]
+- [[Differences Between Ghidra, Binary Ninja, and IDA]]
+- [[Assembly Language Fundamentals]]

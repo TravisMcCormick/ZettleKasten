@@ -1,4 +1,4 @@
-**Tags**: #Processes #Threads #OperatingSystems #Concurrency #ExecutionUnits
+**Tags:** #operating-systems #processes #threads #concurrency #multithreading
 
 ---
 
@@ -26,9 +26,14 @@
 
 Threads offer a powerful way to improve application performance through concurrency but require careful synchronization to prevent race conditions due to shared memory access.
 
-### Related Notes
+### **Related Notes**
 
 - [[Concurrency and Parallelism]]
 - [[Synchronization Primitives]]
-- [[Race Conditions]]
 - [[Mutexes]]
+- [[Thread vs. Goroutine]]
+- [[What Is an OS Thread]]
+- [[What Is a Goroutine]]
+- [[Operating System Fundamentals]]
+- [[Context-Switching (OS vs. Go)]]
+- [[Go Concurrency Overview]]

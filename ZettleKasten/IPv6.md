@@ -1,4 +1,4 @@
-**Tags**: #Networking #IPv6
+**Tags:** #networking #protocol #ipv6 #ip-addressing
 
 ---
 
@@ -20,7 +20,11 @@
 - **Technique**: Simplifies the notation by compressing consecutive zeros.
 - **Example**: `2001:0db8:0000:0000:0000:ff00:0042:8329` can be compressed to `2001:db8::ff00:42:8329`.
 
-### Related Notes
+### **Related Notes**
 
 - [[IPv4]]
+- [[What is an IP Address]]
 - [[Limitations of IPv4 and the Need for IPv6]]
+- [[Subnetting]]
+- [[DHCP]]
+- [[How IP Addresses Facilitate Communication]]

@@ -1,9 +1,10 @@
+**Tags:** #Golang #Functions #Programming #Fundamentals
 
 ---
 
-Tags: #golang #functions #fundamentals
+### Definition
 
-Functions are core building blocks in Go. They encapsulate logic into reusable units, supporting arguments, return values, pointers, variadic parameters, and named returns. Functions are first-class citizens.
+Functions are core building blocks in Go. They encapsulate logic into reusable units, supporting arguments, return values, pointers, variadic parameters, and named returns. Functions are first-class citizens in Go, meaning they can be passed as arguments, returned from other functions, and assigned to variables.
 
 ---
 ### **Related Notes**

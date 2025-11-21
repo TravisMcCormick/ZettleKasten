@@ -95,6 +95,13 @@
 
 **Effective debugging is both an art and a science**, requiring a combination of technical skills, analytical thinking, and persistence. Mastering various debugging techniques and tools empowers developers to efficiently identify and resolve issues, leading to more robust and reliable software applications.
 
-### Related Notes
+### **Related Notes**
 
-- [[Secure Coding Practices]]
+- [[Debugging Tools]]
+- [[Automated Testing]]
+- [[Development Best Practices]]
+- [[Integrated Development Environments (IDEs)]]
+- [[IDA Pro]]
+- [[Ghidra]]
+- [[Binary Ninja]]
+- [[Monitoring and Logging]]

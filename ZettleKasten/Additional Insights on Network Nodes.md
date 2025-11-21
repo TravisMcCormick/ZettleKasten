@@ -1,3 +1,7 @@
+**Tags:** #networking #network-architecture #infrastructure
+
+---
+
 ### **Functions of End Nodes**
 
 - **User Interaction:** Devices like computers and smartphones that users interact with.
@@ -23,7 +27,11 @@ The efficiency and reliability of a network heavily depend on how nodes are conf
 
 ---
 
-# Related Topics
+### **Related Notes**
 
-- [Firewalls and Network Security](Firewalls%20and%20Network%20Security.md)
-- [Networking Protocols](Networking%20Protocols.md)
+- [[Network Nodes]]
+- [[Network Infrastructure]]
+- [[Firewalls and Network Security]]
+- [[Networking Protocols]]
+- [[What is an IP Address]]
+- [[MAC Addresses]]

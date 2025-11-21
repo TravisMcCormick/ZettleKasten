@@ -1,4 +1,4 @@
-**Tags:** #Networking #Security #BestPractices #CyberSecurity
+**Tags:** #network-security #security #best-practices #cybersecurity #firewall
 
 ---
 
@@ -39,8 +39,13 @@ Adopting network security best practices is essential for any organization to pr
 
 ### **Related Notes**
 
-- [Firewalls and IDS Integration](Firewalls%20and%20IDS%20Integration.md)
-- [Intrusion Detection Systems (IDS)](Intrusion%20Detection%20Systems%20(IDS).md))
-- [Security Information and Event Management (SIEM)](Security%20Information%20and%20Event%20Management%20(SIEM).md)
-- [What is a Firewall](What%20is%20a%20Firewall.md)
-- [Network Infrastructure](Network%20Infrastructure.md)
+- [[Firewalls and Network Security]]
+- [[What is a Firewall]]
+- [[Firewall Configuration Best Practices]]
+- [[Intrusion Detection Systems (IDS)]]
+- [[Firewalls and IDS Integration]]
+- [[SIEM]]
+- [[Network Infrastructure]]
+- [[Data Encryption Techniques]]
+- [[Implement Network Segmentation]]
+- [[Configure Firewall Rules]]

@@ -1,4 +1,4 @@
-**Tags**: #Networking #FTP #Protocols #DataTransfer
+**Tags:** #networking #protocol #ftp #file-transfer #data-transfer
 
 ---
 
@@ -105,7 +105,12 @@
 
 **While FTP remains a foundational protocol for file transfers**, its inherent security limitations necessitate the adoption of more secure alternatives like FTPS and SFTP in modern environments. By implementing secure configurations and best practices, organizations can leverage FTP's capabilities while safeguarding their data and infrastructure against potential threats.
 
-### Related Notes
+### **Related Notes**
 
+- [[File Sharing Protocols]]
+- [[Data Transfer Protocols]]
 - [[Authentication Mechanisms]]
 - [[Data Encryption Techniques]]
+- [[Application Layer]]
+- [[Transport Layer Security (TLS)]]
+- [[Network Security Best Practices]]

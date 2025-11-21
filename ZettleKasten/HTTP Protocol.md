@@ -1,18 +1,26 @@
-**Tags:** #Networking #ApplicationLayer #HTTP
+**Tags:** #networking #protocol #application-layer #http #web
 
 ---
 
-#### **Definition**
+### **Definition**
 
-**HTTP (HyperText Transfer Protocol)** is used for transmitting web pages over the internet.
+**HTTP (HyperText Transfer Protocol)** is an application-layer protocol used for transmitting hypermedia documents (web pages) over the internet.
 
-#### **Features**
+### **Features**
 
-- Operates over TCP/IP.
-- Stateless protocol.
-- Uses port 80 by default.
+- Operates over TCP/IP
+- Stateless protocol (doesn't maintain connection state between requests)
+- Uses port 80 by default
+- Request-response model
+- Supports methods: GET, POST, PUT, DELETE, PATCH, etc.
 
-#### **Related Notes**
+---
 
+### **Related Notes**
+
+- [[HTTPS Protocol]]
 - [[Application Layer]]
-- [HTTPS Protocol](HTTPS%20Protocol.md)
+- [[Transport Layer]]
+- [[API]]
+- [[Web Security Best Practices]]
+- [[Data Transfer Protocols]]

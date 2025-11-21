@@ -1,4 +1,4 @@
-**Tags:** #CloudComputing #IT #Virtualization #Scalability
+**Tags:** #cloud-computing #infrastructure #iaas #paas #saas #virtualization
 
 ---
 
@@ -38,6 +38,10 @@ Cloud computing has revolutionized the way organizations manage and deploy IT re
 ### **Related Notes**
 
 - [[Virtualization vs. Containerization]]
-- [[Container Orchestration with Kubernetes]]
 - [[Virtualization Technologies]]
-- [[Storage Area Networks]]
+- [[Container Orchestration with Kubernetes]]
+- [[Docker]]
+- [[Containerization]]
+- [[Cloud Storage Solutions]]
+- [[Cloud Disaster Recovery]]
+- [[DevOps Practices]]

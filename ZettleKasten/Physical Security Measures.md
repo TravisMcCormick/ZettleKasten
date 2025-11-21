@@ -1,4 +1,4 @@
-**Tags**: #Security #RiskManagement #AccessControl #Surveillance
+**Tags:** #physical-security #access-control #security #surveillance #risk-management
 
 ---
 
@@ -68,6 +68,14 @@
 
 **Physical security is a critical aspect of overall security strategy**, often complementing cybersecurity measures. It requires a balanced approach that considers both technological solutions and human factors.
 
-### Related Notes
+### **Related Notes**
 
+- [[Access Control Systems]]
+- [[Biometric Locks]]
+- [[Lock Picking]]
+- [[High-Security Locks]]
+- [[Alarm Systems and Lock Security]]
+- [[Surveillance and Lock Security]]
+- [[Hardware Security]]
+- [[TPM]]
 - [[Disaster Recovery Planning]]

@@ -1,4 +1,4 @@
-**Tags:** #Networking #ApplicationLayer #HTTPS #Security
+**Tags:** #networking #protocol #https #security #encryption #web
 
 ---
 
@@ -72,14 +72,15 @@
 - **Organization Validated (OV):** Includes authentication of the organization's identity.
 - **Extended Validation (EV):** Provides the highest level of trust with strict validation processes; displays the organization's name in the browser address bar.
 
-#### **Related Notes**
+### **Related Notes**
 
 - [[HTTP Protocol]]
-- [TLS - SSL Protocols](TLS%20-%20SSL%20Protocols.md)
-- [[Data Encryption Techniques]]
-- [[Public Key Infrastructure (PKI)]]
+- [[TLS - SSL Protocols]]
+- [[Transport Layer Security (TLS)]]
 - [[Digital Certificates]]
+- [[Certificate Authorities (CA)]]
+- [[Data Encryption Techniques]]
 - [[Symmetric vs. Asymmetric Encryption]]
 - [[Application Layer]]
-- [Transport Layer Security (TLS)](Transport%20Layer%20Security%20(TLS).md)]
 - [[Web Security Best Practices]]
+- [[API]]

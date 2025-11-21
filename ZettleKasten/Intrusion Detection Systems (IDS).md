@@ -1,4 +1,4 @@
-**Tags**: #Security #IDS #Cybersecurity #NetworkSecurity
+**Tags:** #security #ids #intrusion-detection #network-security #cybersecurity
 
 ---
 
@@ -27,9 +27,10 @@
 
 **IDS plays a critical role in a layered security strategy**, providing visibility into potential breaches that may bypass other defenses. However, effective deployment requires careful tuning to balance detection accuracy with operational efficiency.
 
-### Related Notes
+### **Related Notes**
 
 - [[Firewalls and IDS Integration]]
-- [[Security Information and Event Management (SIEM)]]
-- [[Network Traffic Analysis]]
-- [Cyber Threat Intelligence](Cyber%20Threat%20Intelligence.md)
+- [[Intrusion Detection Systems (IDS) vs. Firewalls]]
+- [[Cyber Threat Intelligence]]
+- [[Monitoring and Logging]]
+- [[Incident Response Process]]

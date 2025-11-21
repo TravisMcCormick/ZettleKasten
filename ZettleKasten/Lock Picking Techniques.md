@@ -1,4 +1,4 @@
-**Tags:** #LockPicking #Techniques #SPP #Raking
+**Tags:** #lock-picking #techniques #physical-security #spp #raking
 
 ---
 

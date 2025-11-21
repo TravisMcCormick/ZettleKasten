@@ -1,4 +1,4 @@
-**Tags**: #ContinuousDeployment #CI/CD #DevOps #SoftwareDevelopment
+**Tags:** #devops #ci-cd #continuous-deployment #automation #software-development
 
 ---
 
@@ -53,9 +53,15 @@
 
 **Continuous Deployment represents the pinnacle of automation in the software development lifecycle**, enabling organizations to deliver high-quality software rapidly and reliably. By embracing CD, teams can respond swiftly to market demands, enhance user satisfaction, and maintain a competitive edge through consistent and efficient software releases.
 
-### Related Notes
+### **Related Notes**
 
 - [[Continuous Integration]]
+- [[CI - CD pipeline]]
 - [[DevOps Practices]]
 - [[Automated Testing]]
 - [[Infrastructure as Code]]
+- [[Git]]
+- [[Configuration Management]]
+- [[Monitoring and Logging]]
+- [[zero-downtime reloads]]
+- [[PM2]]

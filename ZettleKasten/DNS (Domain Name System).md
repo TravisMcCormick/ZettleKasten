@@ -1,4 +1,4 @@
-**Tags**: #Networking #DNS #Internet #DomainNames
+**Tags:** #networking #dns #protocol #internet #domain-names
 
 ---
 
@@ -26,10 +26,14 @@
 - **Caching:** To make things faster, DNS servers often remember (cache) recent translations so they don’t have to look them up again right away.
 - **Uses:** Every time you visit a website, send an email, or use an app that connects to the internet, DNS is working behind the scenes to direct your request to the right place.
 - **Example:** Imagine you want to visit your friend’s house but only know their name. You ask a librarian (DNS server) to look up their address (IP address). The librarian might check their own books or ask other librarians until they find the right address for you.
-### Related Notes
+### **Related Notes**
 
 - [[DNS Security Extensions (DNSSEC)]]
+- [[DNS Configuration]]
+- [[DNS Zone Transfer]]
+- [[What is an IP Address]]
 - [[How IP Addresses Facilitate Communication]]
 - [[Domain Name Registration]]
-- [What is an IP Address](What%20is%20an%20IP%20Address.md)
 - [[Top-Level Domanins (TLDs)]]
+- [[DHCP]]
+- [[Configure DNS Settings to Use Trusted Servers]]

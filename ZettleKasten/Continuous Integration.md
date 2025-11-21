@@ -1,4 +1,4 @@
-**Tags**: #DevOps #ContinuousIntegration #SoftwareDevelopment #Automation
+**Tags:** #devops #ci-cd #continuous-integration #automation #software-development
 
 ---
 
@@ -49,10 +49,14 @@
 
 **Continuous Integration is a cornerstone of modern DevOps practices**, fostering a culture of collaboration, accountability, and continuous improvement. By automating integration and testing, teams can deliver higher-quality software more efficiently, adapting swiftly to changing requirements and reducing the risk of costly errors.
 
-### Related Notes
+### **Related Notes**
 
 - [[Continuous Deployment]]
+- [[CI - CD pipeline]]
 - [[DevOps Practices]]
 - [[Automated Testing]]
+- [[Git]]
 - [[Version Control Systems]]
 - [[Build Automation Tools]]
+- [[Configuration Management]]
+- [[Development Best Practices]]

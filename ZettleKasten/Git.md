@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #version-control #git #software-development #devops
 
 ---
 
@@ -44,5 +44,9 @@ Git is a distributed version control system widely used for tracking changes in 
 
 ### **Related Notes**
 
-- Best Practices in Synchronization
-- System Calls for Synchronization
+- [[Version Control Systems]]
+- [[CI - CD pipeline]]
+- [[Continuous Integration]]
+- [[DevOps Practices]]
+- [[Development Best Practices]]
+- [[Build Automation Tools]]

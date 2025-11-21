@@ -1,4 +1,4 @@
-**Tags:** #ComputerScience #Hardware #ComputerComponents #IT
+**Tags:** #hardware #computer-architecture #components #CPU #memory
 
 ---
 
@@ -44,7 +44,10 @@ A thorough understanding of computer hardware components is essential for optimi
 ### **Related Notes**
 
 - [[CPU (Central Processing Unit)]]
-- [Memory Hierarchy](Memory%20Hierarchy.md)
-- [SSD (Solid State Drive)](SSD%20(Solid%20State%20Drive).md)
-- [What is a Network](What%20is%20a%20Network.md)
-- [Computer Hardware Components](Computer%20Hardware%20Components.md)
+- [[Memory Hierarchy]]
+- [[Hard Drives (HDD)]]
+- [[Computer Architecture Basics]]
+- [[System Interconnects]]
+- [[Network Interface Cards (NIC)]]
+- [[Dark Silicon]]
+- [[TPM]]

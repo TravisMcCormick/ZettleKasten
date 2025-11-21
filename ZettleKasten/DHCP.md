@@ -1,4 +1,4 @@
-**Tags:**
+**Tags:** #networking #protocol #dhcp #ip-addressing #network-management
 
 ---
 
@@ -38,6 +38,11 @@ DHCP (Dynamic Host Configuration Protocol) is a network management protocol used
 
 ### **Related Notes**
 
-- DNS Zone Transfer
-- Firewalls and Network Security
-- Top-Level Domains (TLDs)
+- [[DNS (Domain Name System)]]
+- [[What is an IP Address]]
+- [[Static IP Address]]
+- [[Dynamic IP Address]]
+- [[Subnetting]]
+- [[Network Configuration Layout]]
+- [[Default Gateway]]
+- [[Firewalls and Network Security]]

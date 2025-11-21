@@ -1,4 +1,4 @@
-**Tags**: #Cryptography #HashFunctions #Security #DataIntegrity
+**Tags:** #cryptography #hash-functions #security #data-integrity
 
 ---
 
@@ -26,9 +26,13 @@
 
 **Hash functions are indispensable in modern security practices**, providing a means to verify data integrity and secure sensitive information. Their role in password hashing and digital signatures underscores their critical importance in protecting digital assets.
 
-### Related Notes
+### **Related Notes**
 
-- [[Symmetric vs. Asymmetric Encryption]]
-- [[Digital Certificates]]
+- [[Cryptographic Algorithms]]
 - [[Data Integrity Mechanisms]]
-- [Cryptographic Algorithms](Cryptographic%20Algorithms.md)
+- [[Digital Certificates]]
+- [[Symmetric vs. Asymmetric Encryption]]
+- [[Encryption Standards]]
+- [[Cryptographic Protocols]]
+- [[PGP]]
+- [[Data Encryption Techniques]]

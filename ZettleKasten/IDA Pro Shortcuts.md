@@ -114,4 +114,7 @@
 
 ### Related Notes
 
+- [[IDA Pro]]
 - [[IDA Pro Plugins]]
+- [[Ghidra Shortcuts]]
+- [[IDA Free]]

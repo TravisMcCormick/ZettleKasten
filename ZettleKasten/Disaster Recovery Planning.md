@@ -1,4 +1,4 @@
-**Tags**: #DisasterRecovery #BusinessContinuity #ITPlanning #RiskManagement
+**Tags:** #disaster-recovery #business-continuity #backup #risk-management
 
 ---
 
@@ -48,8 +48,12 @@
 
 **Effective disaster recovery planning is essential for organizational resilience**, enabling businesses to swiftly recover from unforeseen events and maintain essential operations. Investing in robust DRP not only protects against data loss but also enhances overall business stability and reputation.
 
-### Related Notes
+### **Related Notes**
 
 - [[Data Backup Strategies]]
-- [Cloud Disaster Recovery](Cloud%20Disaster%20Recovery.md)
+- [[Cloud Disaster Recovery]]
 - [[Incident Response Process]]
+- [[Cloud Storage Solutions]]
+- [[Backup Configurations]]
+- [[Physical Security Measures]]
+- [[Monitoring and Logging]]

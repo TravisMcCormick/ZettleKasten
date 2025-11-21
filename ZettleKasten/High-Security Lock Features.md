@@ -1,4 +1,4 @@
-Tags: #LockPicking #Security #AdvancedLocks
+**Tags:** #LockPicking #Security #PhysicalSecurity #Locks #AdvancedSecurity
 
 ---
 

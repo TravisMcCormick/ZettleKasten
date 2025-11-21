@@ -1,4 +1,4 @@
-**Tags**: #Backup #DataProtection #DisasterRecovery #ITInfrastructure
+**Tags:** #backup #data-protection #disaster-recovery #storage
 
 ---
 
@@ -71,10 +71,12 @@
 
 **A robust data backup strategy is essential for organizational resilience**, safeguarding against data loss and ensuring business continuity. Implementing a combination of backup types, adhering to best practices, and leveraging cloud solutions can provide comprehensive protection tailored to specific needs and resources.
 
-### Related Notes
+### **Related Notes**
 
+- [[Cloud Disaster Recovery]]
+- [[Cloud Storage Solutions]]
+- [[Data Storage Technologies]]
 - [[Backup Configurations]]
 - [[Data Integrity Mechanisms]]
 - [[Disaster Recovery Planning]]
-- [[Data Storage Technologies]]
-- [[Infrastructure as Code]]
+- [[Cloud Computing]]

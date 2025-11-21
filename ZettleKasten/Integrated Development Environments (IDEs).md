@@ -78,5 +78,7 @@
 
 ### Related Notes
 
-- [[Version Control Systems]]
+- [[Git]]
 - [[Debugging Techniques]]
+- [[Ghidra]]
+- [[IDA Pro]]

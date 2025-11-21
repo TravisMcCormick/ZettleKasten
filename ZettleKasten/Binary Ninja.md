@@ -1,4 +1,4 @@
-**Tags**: #ReverseEngineering #BinaryNinja #Disassembly #Decompilation
+**Tags:** #reverse-engineering #binary-analysis #tools #decompilation #disassembly
 
 ---
 
@@ -23,9 +23,12 @@
 
 **Binary Ninja strikes a balance between functionality and accessibility**, making it a strong choice for both beginners and experienced reverse engineers seeking a cost-effective solution.
 
-### Related Notes
+### **Related Notes**
 
 - [[IDA Pro]]
 - [[Ghidra]]
-- [Techniques for Reverse Engineering](Techniques%20for%20Reverse%20Engineering.md)
+- [[Techniques for Reverse Engineering]]
 - [[Binary Ninja Plugins]]
+- [[Binary Ninja Shortcuts]]
+- [[Differences Between Ghidra, Binary Ninja, and IDA]]
+- [[Decompilation Theory]]

@@ -1,4 +1,4 @@
-Tags: #LockPicking #LockPickingAsAHobby #LockSport
+**Tags:** #LockPicking #Hobby #PhysicalSecurity #LockSport #SkillDevelopment
 
 ---
 

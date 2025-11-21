@@ -1,4 +1,4 @@
-**Tags**: #ComputerArchitecture #ComputerScience #Hardware #Engineering
+**Tags:** #computer-architecture #hardware #cpu #memory #engineering
 
 ---
 
@@ -49,10 +49,14 @@
 
 **A solid understanding of computer architecture is essential for optimizing software performance, designing efficient systems, and ensuring robust security**. It bridges the gap between hardware capabilities and software demands, enabling the creation of high-performance and secure computing environments.
 
-### Related Notes
+### **Related Notes**
 
-- [CPU (Central Processing Unit)](CPU%20(Central%20Processing%20Unit).md)
-- [[Memory Hierarchy]]
-- [[System Interconnects]]
-- [[Instruction Set Architecture]]
+- [[CPU (Central Processing Unit)]]
 - [[Computer Hardware Components]]
+- [[Memory Hierarchy]]
+- [[Instruction Set Architecture]]
+- [[System Interconnects]]
+- [[Dark Silicon]]
+- [[TPM]]
+- [[Assembly Language Fundamentals]]
+- [[Virtual Memory]]

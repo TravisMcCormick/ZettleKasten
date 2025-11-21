@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #concurrency #synchronization #programming #deadlock #operating-systems
 
 ---
 
@@ -27,6 +27,11 @@ Avoiding deadlocks and starvation involves implementing strategies in concurrent
 
 ### **Related Notes**
 
-- Best Practices in Synchronization
-- Kernel vs. User Space Synchronization
-- Monitors in Synchronization
+- [[Deadlocks and Starvation]]
+- [[Best Practices in Synchronization]]
+- [[Critical Section Problem]]
+- [[Mutexes]]
+- [[Synchronization Primitives]]
+- [[Classic Synchronization Problems]]
+- [[Monitors in Synchronization]]
+- [[Kernel vs. User Space Synchronization]]

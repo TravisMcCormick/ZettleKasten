@@ -1,4 +1,4 @@
-Tags: #LockPicking #Legal #Regulations
+**Tags:** #LockPicking #Legal #PhysicalSecurity #Law #Ethics
 
 ---
 

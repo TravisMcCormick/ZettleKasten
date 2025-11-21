@@ -1,4 +1,4 @@
-**Tags**: #ConfigurationManagement #DevOps #ITOperations #InfrastructureAsCode
+**Tags:** #devops #configuration-management #infrastructure-as-code #automation
 
 ---
 
@@ -53,8 +53,14 @@
 
 **Effective configuration management is critical for maintaining the reliability and security of IT systems**. By implementing robust CM practices and leveraging automation tools, organizations can achieve greater operational efficiency, reduce the risk of errors, and ensure that their infrastructure remains consistent and compliant with evolving standards.
 
-### Related Notes
+### **Related Notes**
 
 - [[Infrastructure as Code]]
 - [[DevOps Practices]]
+- [[Ansible control node]]
+- [[Ansible-driven deployment]]
+- [[Configuration Error Handling]]
 - [[Continuous Integration]]
+- [[CI - CD pipeline]]
+- [[Git]]
+- [[Automation Tools]]

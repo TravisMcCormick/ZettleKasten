@@ -1,4 +1,4 @@
-**Tags**: #Testing #Automation #SoftwareDevelopment #QualityAssurance
+**Tags:** #testing #automation #software-development #devops #quality-assurance
 
 ---
 
@@ -61,7 +61,11 @@
 
 **Automated testing is a cornerstone of modern software development**, enabling rapid iterations and high-quality releases. By investing in robust automated testing frameworks and practices, teams can significantly enhance their development efficiency and product reliability.
 
-### Related Notes
+### **Related Notes**
 
 - [[Continuous Integration]]
+- [[Continuous Deployment]]
 - [[DevOps Practices]]
+- [[CI - CD pipeline]]
+- [[Development Best Practices]]
+- [[Build Automation Tools]]

@@ -1,4 +1,4 @@
-**Tags**: #Security #DigitalCertificates #PKI #Encryption
+**Tags:** #security #digital-certificates #pki #encryption #authentication
 
 ---
 
@@ -26,9 +26,14 @@
 
 **Digital certificates are essential for establishing trust and security in online interactions**, forming the backbone of secure communications on the internet. Proper management and validation of certificates are crucial to maintaining the integrity of digital transactions.
 
-### Related Notes
+### **Related Notes**
 
-- [[Public Key Infrastructure (PKI)]]
-- [TLS - SSL Protocols](TLS%20-%20SSL%20Protocols.md)
+- [[Certificate Authorities (CA)]]
+- [[TLS - SSL Protocols]]
+- [[Transport Layer Security (TLS)]]
+- [[HTTPS Protocol]]
+- [[Cryptographic Algorithms]]
 - [[Hash Functions]]
-- [Certificate Authorities (CA)](Certificate%20Authorities%20(CA).md)
+- [[Cryptographic Key Management]]
+- [[Authentication and Authorization]]
+- [[PGP]]

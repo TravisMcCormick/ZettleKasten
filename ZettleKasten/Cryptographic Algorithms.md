@@ -1,4 +1,4 @@
-**Tags**: #Cryptography #Algorithms #Security #Encryption
+**Tags:** #cryptography #encryption #security #algorithms #hash-functions
 
 ---
 
@@ -62,10 +62,14 @@
 
 **Cryptographic algorithms are the backbone of modern security systems**, enabling secure communication, data protection, and trust in digital interactions. Understanding the strengths and appropriate applications of different algorithms is essential for designing robust security architectures and safeguarding information assets effectively.
 
-### Related Notes
+### **Related Notes**
 
+- [[Symmetric vs. Asymmetric Encryption]]
+- [[Hash Functions]]
 - [[Cryptographic Protocols]]
 - [[Encryption Standards]]
-- [[Secure Communication]]
-- [[Hash Functions]]
-- [[Public Key Infrastructure (PKI)]]
+- [[Cryptographic Key Management]]
+- [[Data Encryption Techniques]]
+- [[Digital Certificates]]
+- [[PGP]]
+- [[TPM]]

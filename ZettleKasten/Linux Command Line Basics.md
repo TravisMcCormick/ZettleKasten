@@ -1,4 +1,4 @@
-**Tags**: #Linux #CommandLine #Shell #CLI
+**Tags:** #linux #command-line #shell #system-administration #cli
 
 ---
 
@@ -61,9 +61,8 @@
 
 **Mastering the Linux command line enhances efficiency and opens up powerful system capabilities**. It is an indispensable skill for developers, system administrators, and power users working within Unix-like environments.
 
-### Related Notes
+### **Related Notes**
 
-- [[Shell Scripting Basics]]
+- [[Linux Shell Scripting Basics]]
 - [[Linux File System]]
-- [[Text Processing Utilities]]
-- [[Package Management with APT]]
+- [[grep Command]]

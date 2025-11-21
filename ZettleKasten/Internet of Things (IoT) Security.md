@@ -72,4 +72,6 @@
 
 ### Related Notes
 
-- [[Threat Intelligence]]
+- [[Hardware Security]]
+- [[Home Automation]]
+- [[Implement Network Segmentation]]

@@ -1,4 +1,4 @@
-**Tags**: #DevOps #Automation #ConfigurationManagement #CloudComputing
+﻿**Tags**: #DevOps #Automation #ConfigurationManagement #CloudComputing
 
 ---
 
@@ -56,3 +56,9 @@
 ### Related Notes
 
 - [[Version Control Systems]]
+- [[DevOps Practices]]
+- [[Continuous Integration]]
+- [[Continuous Deployment]]
+- [[Configuration Management]]
+- [[Docker]]
+- [[Container Orchestration with Kubernetes]]

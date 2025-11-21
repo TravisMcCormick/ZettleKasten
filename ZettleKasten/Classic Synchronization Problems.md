@@ -1,4 +1,4 @@
-**Tags**: #Synchronization #Concurrency #Problems #Algorithms #Threads
+**Tags:** #concurrency #synchronization #threading #algorithms #deadlock
 
 ---
 
@@ -34,9 +34,13 @@
 
 Studying these classic problems provides valuable insights into designing robust concurrent systems and helps in understanding the nuances of synchronization.
 
-### Related Notes
+### **Related Notes**
 
-- [[Mutexes]]
-- [[Semaphores]]
-- [[Deadlocks and Starvation]]
 - [[Synchronization Primitives]]
+- [[Mutexes]]
+- [[Deadlocks and Starvation]]
+- [[Avoiding Deadlocks and Starvation]]
+- [[Critical Section Problem]]
+- [[Mutual Exclusion]]
+- [[Concurrency and Parallelism]]
+- [[Best Practices in Synchronization]]

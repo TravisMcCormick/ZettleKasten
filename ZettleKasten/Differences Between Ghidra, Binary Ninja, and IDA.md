@@ -1,4 +1,4 @@
-**Tags**: #ReverseEngineering #Ghidra #BinaryNinja #IDAPro #ToolComparison
+**Tags:** #reverse-engineering #tools #comparison #binary-analysis
 
 ---
 
@@ -74,10 +74,15 @@ This note compares the key features, strengths, and differences among three lead
 
 **The choice between IDA, Ghidra, and Binary Ninja often depends on specific project requirements, budget constraints, and personal preference**. Ghidra offers a powerful and free alternative suitable for many tasks. Binary Ninja provides a balance of functionality and affordability with a focus on usability. IDA Pro remains a top choice for professional analysts requiring advanced features and extensive architecture support.
 
-### Related Notes
+### **Related Notes**
 
 - [[IDA Pro]]
 - [[IDA Free]]
 - [[Ghidra]]
 - [[Binary Ninja]]
-- [Techniques for Reverse Engineering](Techniques%20for%20Reverse%20Engineering.md)
+- [[Techniques for Reverse Engineering]]
+- [[Hex-Rays Decompiler]]
+- [[Ghidra Decompiler]]
+- [[Assembly Language Fundamentals]]
+- [[Dynamic vs. Static Analysis]]
+- [[Malware Analysis Techniques]]

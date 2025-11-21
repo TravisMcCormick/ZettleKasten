@@ -1,4 +1,4 @@
-Tags**: #CriticalSection #Concurrency #Synchronization #RaceConditions #MutualExclusion
+**Tags:** #concurrency #synchronization #critical-section #mutual-exclusion #threading
 
 ---
 
@@ -22,10 +22,14 @@ The **Critical Section Problem** refers to ensuring that when multiple threads o
 
 Effectively managing critical sections is essential for writing correct and efficient concurrent programs, balancing the need for safety and performance.
 
-### Related Notes
+### **Related Notes**
 
 - [[Mutual Exclusion]]
 - [[Synchronization Primitives]]
-- [[Race Conditions]]
 - [[Mutexes]]
-- [[Semaphores]]
+- [[Concurrency and Parallelism]]
+- [[Deadlocks and Starvation]]
+- [[Avoiding Deadlocks and Starvation]]
+- [[Classic Synchronization Problems]]
+- [[Best Practices in Synchronization]]
+- [[Processes and Threads]]

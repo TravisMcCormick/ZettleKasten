@@ -1,4 +1,4 @@
-**Tags**: #Cryptography #Protocols #Security #Communication
+**Tags:** #cryptography #protocols #security #encryption #communication
 
 ---
 
@@ -72,7 +72,15 @@
 
 **Cryptographic protocols are essential for securing digital interactions and safeguarding sensitive information**. Understanding their mechanisms, strengths, and potential weaknesses enables the design and implementation of robust security systems that protect against evolving threats in the digital landscape.
 
-### Related Notes
+### **Related Notes**
 
+- [[Cryptographic Algorithms]]
 - [[Encryption Standards]]
+- [[Transport Layer Security (TLS)]]
+- [[TLS - SSL Protocols]]
+- [[HTTPS Protocol]]
+- [[PGP]]
 - [[Authentication Mechanisms]]
+- [[Digital Certificates]]
+- [[Cryptographic Key Management]]
+- [[Symmetric vs. Asymmetric Encryption]]

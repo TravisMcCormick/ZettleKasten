@@ -1,4 +1,4 @@
-**Tags**: #Mutexes #Synchronization #MutualExclusion #Concurrency #Threads
+**Tags:** #concurrency #synchronization #mutexes #threading #mutual-exclusion
 
 ---
 
@@ -50,10 +50,12 @@ A **Mutex** (Mutual Exclusion Object) is a synchronization primitive used to pre
 
 Mutexes are essential for safe multithreaded programming but require careful handling to avoid common pitfalls like deadlocks and performance degradation.
 
-### Related Notes
+### **Related Notes**
 
-- [[Semaphores]]
 - [[Mutual Exclusion]]
 - [[Deadlocks and Starvation]]
 - [[Priority Inversion]]
-- [[Real-Time Operating Systems (RTOS)]]
+- [[Critical Section Problem]]
+- [[Semaphores]]
+- [[Monitors in Synchronization]]
+- [[Kernel vs. User Space Synchronization]]

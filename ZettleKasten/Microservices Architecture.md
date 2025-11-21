@@ -1,4 +1,4 @@
-**Tags**: #SoftwareArchitecture #Microservices #DistributedSystems #DevOps
+**Tags:** #software-architecture #microservices #distributed-systems #devops #api
 
 ---
 
@@ -50,7 +50,11 @@
 
 **Microservices architecture empowers organizations to build scalable and flexible systems**, aligning closely with agile methodologies and DevOps practices, but it requires careful planning and management to address inherent complexities.
 
-### Related Notes
+### **Related Notes**
 
 - [[DevOps Practices]]
+- [[Docker]]
+- [[Container Orchestration with Kubernetes]]
 - [[Monitoring and Logging]]
+- [[load-balancing]]
+- [[Gateway]]

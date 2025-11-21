@@ -1,4 +1,4 @@
-Tags: #LockPicking #Security #AlarmSystems
+**Tags:** #physical-security #alarm-systems #security #access-control
 
 ---
 

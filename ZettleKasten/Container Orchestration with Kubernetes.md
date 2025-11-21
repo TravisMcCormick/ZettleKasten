@@ -35,8 +35,13 @@ Leveraging Kubernetes for container orchestration is pivotal in achieving a robu
 
 ### **Related Notes**
 
+- [[Docker]]
+- [[Containerization]]
 - [[DevOps Practices]]
-- [[Container Orchestration with Kubernetes]]
 - [[Virtualization vs. Containerization]]
-- [[Monitoring and Logging]] 
-- [[Infrastructure as Code]] 
+- [[Monitoring and Logging]]
+- [[Infrastructure as Code]]
+- [[Cloud Computing]]
+- [[Microservices Architecture]]
+- [[Load-balancing]]
+- [[Portainer]] 

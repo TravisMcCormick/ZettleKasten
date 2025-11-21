@@ -52,6 +52,11 @@
 
 ### Related Notes
 
-- [[System Maintenance]]
-- [[Security Information and Event Management (SIEM)]]
 - [[Microservices Architecture]]
+- [[Incident Response Process]]
+- [[DevOps Practices]]
+- [[health checks]]
+- [[Integrated log management]]
+- [[logrotate]]
+- [[inspection]]
+- [[monitoring agents]]

@@ -1,4 +1,4 @@
-**Tags**: #AssemblyLanguage #Programming #LowLevelProgramming #ComputerArchitecture
+**Tags:** #assembly #programming #low-level #reverse-engineering #computer-architecture
 
 ---
 
@@ -32,10 +32,13 @@
 
 **Learning assembly language deepens understanding of how software interacts with hardware**, which is invaluable for systems programming, optimization, and security analysis.
 
-### Related Notes
+### **Related Notes**
 
-- [Techniques for Reverse Engineering](Techniques%20for%20Reverse%20Engineering.md)
+- [[Techniques for Reverse Engineering]]
+- [[Computer Architecture Basics]]
+- [[Instruction Set Architecture]]
 - [[Dynamic vs. Static Analysis]]
-- [Computer Architecture Basics](Computer%20Architecture%20Basics.md)
-- [[Hex-Rays Decompiler]]
 - [[IDA Pro]]
+- [[Ghidra]]
+- [[Binary Ninja]]
+- [[Hex-Rays Decompiler]]

@@ -1,4 +1,4 @@
-**Tags**: #Networking #ARP 
+**Tags:** #networking #protocol #data-link-layer #ARP 
 
 ---
 
@@ -19,10 +19,12 @@
 
 **ARP functions like a local directory assistance.** When a computer knows another device's IP address but not its physical MAC address, it broadcasts a request: "Who has IP address X.X.X.X?" The device with that IP responds with its MAC address, enabling direct communication at the data link layer.
 
-### Related Notes
+### **Related Notes**
 
 - [[How IP Addresses Facilitate Communication]]
 - [[IP Spoofing]]
-- [MAC Addresses](MAC%20Addresses.md)
-- [Data Link Layer](Data%20Link%20Layer.md)
-- [Networking Protocols](Networking%20Protocols.md)
+- [[MAC Addresses]]
+- [[Data Link Layer]]
+- [[Networking Protocols]]
+- [[Ethernet Protocol]]
+- [[What is an IP Address]]

@@ -1,4 +1,4 @@
-**Tags**: #ComputerArchitecture #ISA #Hardware #SoftwareInterface
+﻿**Tags**: #ComputerArchitecture #ISA #Hardware #SoftwareInterface
 
 ---
 
@@ -74,3 +74,4 @@
 ### Related Notes
 
 - [[Computer Architecture Basics]]
+- [[CPU (Central Processing Unit)]]

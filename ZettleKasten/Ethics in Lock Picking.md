@@ -1,4 +1,4 @@
-Tags: #LockPicking #Ethics
+**Tags:** #lock-picking #ethics #legal #responsibility #security
 
 ---
 
@@ -28,9 +28,9 @@ Ethics form the foundation of responsible lock picking. Upholding high ethical s
 
 ### **Related Notes**
 
-- [[Responsible Use of Lock Picking]]
 - [[Legal Aspects of Lock Picking]]
 - [[Lock Picking as a Hobby]]
 - [[Lock Picking]]
 - [[Lock Picking Techniques]]
-- [[Ethics in Lock Picking]]
+- [[History of Lock Picking]]
+- [[Physical Security Measures]]

@@ -1,4 +1,4 @@
-**Tags:** #Networking #FileSharing #Protocols #DataTransfer
+**Tags:** #networking #protocol #file-sharing #data-transfer
 
 ---
 
@@ -39,9 +39,10 @@ Choosing the right file sharing protocol is crucial for balancing security, spee
 
 ### **Related Notes**
 
-- [[SMB Protocol]]
 - [[FTP Protocol]]
-- [[Secure Web Practices]]
-- [[Network Traffic Analysis]]
 - [[Data Transfer Protocols]]
-- [[What is a Network]]
+- [[HTTP Protocol]]
+- [[HTTPS Protocol]]
+- [[Networking Protocols]]
+- [[Network Attached Storage (NAS)]]
+- [[Cloud Storage Solutions]]

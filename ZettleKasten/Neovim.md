@@ -1,4 +1,4 @@
-**Tags**: #TextEditor #Vim #Productivity #OpenSource
+**Tags:** #text-editor #vim #tools #productivity #development
 
 ---
 
@@ -66,3 +66,12 @@
 **Neovim brings a modern touch to the classic Vim experience**, enhancing productivity for developers who prefer keyboard-centric navigation. Its active community and extensible nature make it a compelling choice for both new and seasoned users.
 
 ---
+
+### **Related Notes**
+
+- [[Integrated Development Environments (IDEs)]]
+- [[Linux Command Line Basics]]
+- [[Text Processing Utilities]]
+- [[Development Best Practices]]
+- [[Alacritty terminal]]
+- [[tmux]]

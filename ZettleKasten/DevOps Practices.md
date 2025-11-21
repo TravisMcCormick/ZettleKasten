@@ -1,4 +1,4 @@
-Tags:** #DevOps #SoftwareDevelopment #CI/CD #Automation
+**Tags:** #devops #ci-cd #automation #software-development #infrastructure
 
 ---
 
@@ -33,7 +33,13 @@ Implementing DevOps practices transforms the software development lifecycle by f
 ### **Related Notes**
 
 - [[Continuous Integration]]
+- [[Continuous Deployment]]
+- [[CI - CD pipeline]]
 - [[Infrastructure as Code]]
+- [[Configuration Management]]
+- [[Docker]]
+- [[Container Orchestration with Kubernetes]]
 - [[Monitoring and Logging]]
-- [[Secure Coding Practices]]
-- [What is a Network](What%20is%20a%20Network.md)
+- [[Automated Testing]]
+- [[Git]]
+- [[Development Best Practices]]

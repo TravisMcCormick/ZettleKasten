@@ -1,4 +1,4 @@
-**Tags**: #ComputerArchitecture #CPU #Hardware #ComputerScience
+**Tags:** #hardware #cpu #computer-architecture #performance #processors
 
 ---
 
@@ -41,10 +41,13 @@ The **Central Processing Unit (CPU)** is the primary component of a computer tha
 
 **The CPU is often referred to as the "brain" of the computer**, playing a crucial role in determining overall system performance and capabilities. Advances in CPU technology, such as increased core counts and enhanced instruction sets, continue to drive improvements in computing power and efficiency, enabling more complex and demanding applications.
 
-### Related Notes
+### **Related Notes**
 
 - [[Computer Architecture Basics]]
+- [[Computer Hardware Components]]
 - [[Memory Hierarchy]]
 - [[Instruction Set Architecture]]
 - [[CPU Performance Metrics]]
-- [[ZettleKasten/Hardware Security]]
+- [[Dark Silicon]]
+- [[System Interconnects]]
+- [[Hardware Security]]

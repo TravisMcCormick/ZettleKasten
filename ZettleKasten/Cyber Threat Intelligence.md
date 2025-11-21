@@ -1,4 +1,4 @@
-**Tags**: #CyberSecurity #ThreatIntelligence #CyberThreats #Security
+**Tags:** #cybersecurity #threat-intelligence #security #incident-response
 
 ---
 
@@ -76,5 +76,18 @@
 ### Personal Insight
 
 **Cyber Threat Intelligence is a critical component of modern cybersecurity strategies**, enabling organizations to anticipate, detect, and respond to threats proactively. By leveraging diverse intelligence sources and integrating CTI into security operations, organizations can enhance their resilience against sophisticated cyber adversaries.
+
+### **Related Notes**
+
+- [[SIEM]]
+- [[Intrusion Detection Systems (IDS)]]
+- [[Incident Response Process]]
+- [[Network Security Best Practices]]
+- [[Malware Analysis Techniques]]
+- [[Snort]]
+- [[Wazuh]]
+- [[Splunk]]
+- [[Network Traffic Analysis]]
+- [[Threat Intelligence]]
 
 ---

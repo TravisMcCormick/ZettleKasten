@@ -1,4 +1,4 @@
-**Tags:** #Networking #PresentationLayer #Encryption
+**Tags:** #cryptography #encryption #security #data-protection
 
 ---
 
@@ -61,10 +61,15 @@
 - **Implement Multi-Factor Authentication:** Adds an extra layer of security.
 - **Educate Users:** Ensure that users understand the importance of encryption and how to use it properly.
 
-#### **Related Notes**
-- [[Presentation Layer]]
-- [TLS - SSL Protocols](TLS%20-%20SSL%20Protocols.md)
+### **Related Notes**
+
 - [[Symmetric vs. Asymmetric Encryption]]
-- [[Data Compression Methods]]
-- [[Public Key Infrastructure (PKI)]]
+- [[Cryptographic Algorithms]]
 - [[Hash Functions]]
+- [[TLS - SSL Protocols]]
+- [[Transport Layer Security (TLS)]]
+- [[Cryptographic Key Management]]
+- [[Digital Certificates]]
+- [[PGP]]
+- [[Encrypt Sensitive Data]]
+- [[TPM]]

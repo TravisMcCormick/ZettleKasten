@@ -1,4 +1,4 @@
-**Tags**: #Concurrency #Parallelism #Multithreading #Programming #Performance
+**Tags:** #concurrency #parallelism #programming #multithreading #performance
 
 ---
 
@@ -27,9 +27,13 @@
 
 Understanding the difference between concurrency and parallelism is crucial for designing efficient systems. Concurrency improves program structure and responsiveness, while parallelism enhances performance by utilizing hardware capabilities.
 
-### Related Notes
+### **Related Notes**
 
 - [[Processes and Threads]]
 - [[Synchronization Primitives]]
+- [[Mutexes]]
 - [[Mutual Exclusion]]
 - [[Critical Section Problem]]
+- [[Go Concurrency Overview]]
+- [[Thread vs. Goroutine]]
+- [[The Go Scheduler (G-M-P Model)]]

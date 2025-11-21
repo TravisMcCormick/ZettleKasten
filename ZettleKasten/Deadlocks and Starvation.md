@@ -1,4 +1,4 @@
-**Tags**: #Deadlocks #Starvation #Concurrency #Synchronization #Bugs
+**Tags:** #concurrency #synchronization #deadlock #starvation #threading
 
 ---
 
@@ -38,10 +38,14 @@
 
 Deadlocks and starvation are critical issues that can severely impact system reliability. Preventative design and careful resource management are essential.
 
-### Related Notes
+### **Related Notes**
 
+- [[Avoiding Deadlocks and Starvation]]
 - [[Mutexes]]
-- [[Semaphores]]
-- [[Priority Inversion]]
-- [[Real-Time Operating Systems (RTOS)]]
 - [[Synchronization Primitives]]
+- [[Critical Section Problem]]
+- [[Priority Inversion]]
+- [[Classic Synchronization Problems]]
+- [[Mutual Exclusion]]
+- [[Concurrency and Parallelism]]
+- [[Best Practices in Synchronization]]

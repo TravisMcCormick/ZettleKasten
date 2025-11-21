@@ -1,4 +1,4 @@
-**Tags:** #ComputerScience #MemoryHierarchy #ComputerArchitecture #Performance
+**Tags:** #hardware #memory #computer-architecture #performance #cache
 
 ---
 
@@ -31,10 +31,11 @@ Understanding the memory hierarchy is crucial for optimizing application perform
 
 ### **Related Notes**
 
-- [CPU (Central Processing Unit)](CPU%20(Central%20Processing%20Unit).md)
-- [SSD (Solid State Drive)](SSD%20(Solid%20State%20Drive).md)
-- [[RAM (Random Access Memory)]]
-- [[Storage Area Networks]]
-- [[Virtual Memory]]
+- [[CPU (Central Processing Unit)]]
+- [[Computer Hardware Components]]
+- [[Hard Drives (HDD)]]
 - [[Data Storage Technologies]]
-- [Computer Hardware Components](Computer%20Hardware%20Components.md)
+- [[CPU Performance Metrics]]
+- [[Memory Management of Structs]]
+- [[memory footprint]]
+- [[Memresistor]]

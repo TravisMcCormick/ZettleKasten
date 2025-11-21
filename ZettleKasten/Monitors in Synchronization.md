@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Synchronization #Concurrency #Monitors #Programming #Threads
 
 ---
 
@@ -38,8 +38,15 @@ Monitors are high-level synchronization constructs used to control access to sha
 - **Java's `synchronized` Keyword:** Provides monitor-like behavior by ensuring that only one thread can execute a synchronized method or block.
 - **C#'s `lock` Statement:** Similar to Java's synchronization mechanisms.
 
+### Personal Insight
+
+Monitors provide a higher-level abstraction than mutexes and semaphores, making it easier to write correct concurrent code. They encapsulate both data and synchronization logic, reducing the chance of synchronization errors. Understanding monitors helps appreciate modern synchronization constructs in languages like Java and C#.
+
 ### **Related Notes**
 
-- Best Practices in Synchronization
-- Kernel vs. User Space Synchronization
-- Avoiding Deadlocks and Starvation
+- [[Mutexes]]
+- [[Semaphores]]
+- [[Kernel vs. User Space Synchronization]]
+- [[Deadlocks and Starvation]]
+- [[Critical Section Problem]]
+- [[Mutual Exclusion]]

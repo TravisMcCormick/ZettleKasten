@@ -1,4 +1,4 @@
-**Tags**: #TerminalEmulator #Linux #CommandLine #Alacritty
+**Tags:** #terminal #linux #command-line #tools
 
 ---
 
@@ -26,10 +26,11 @@
 
 **Alacritty offers a balance of performance and simplicity**, making it a preferred choice for users seeking a fast and efficient terminal without unnecessary features.
 
-### Related Notes
+### **Related Notes**
 
 - [[st terminal]]
+- [[tmux]]
 - [[Linux Command Line Basics]]
 - [[zsh plugins]]
-- [tmux](tmux.md)
-- [Neovim](Neovim.md)
+- [[Oh My Zsh]]
+- [[Neovim]]

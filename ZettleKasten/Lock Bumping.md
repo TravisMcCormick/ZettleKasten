@@ -1,4 +1,4 @@
-Tags: #LockPicking #Methods #Bumping
+**Tags:** #LockPicking #Bumping #PhysicalSecurity #Techniques
 
 ---
 

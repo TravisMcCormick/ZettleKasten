@@ -39,8 +39,5 @@
 
 ### Related Notes
 
-- [[awk Command]]
 - [[grep Command]]
-- [[sed Command]]
 - [[Linux Command Line Basics]]
-- [Cron Jobs](Cron%20Jobs.md)

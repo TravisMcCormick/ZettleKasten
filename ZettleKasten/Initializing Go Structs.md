@@ -1,6 +1,14 @@
+**Tags:** #Golang #Structs #Programming #Initialization #Fundamentals
 
 ---
-1. **Composite Literal with Field Names** (idiomatic):=
+
+### Definition
+
+**Initializing Go Structs** covers the various methods for creating and initializing struct instances in Go, from composite literals to constructor functions.
+
+### Initialization Methods
+
+1. **Composite Literal with Field Names** (idiomatic):
 ```go
 p := Person{Name: "Bob", Age: 25}
 ```
@@ -31,7 +39,15 @@ func NewPerson(name string) *Person {
 
 Fields not specified are set to their zero value (e.g., `""` for strings, `0` for ints).
 
+### Personal Insight
+
+The composite literal with field names is the most idiomatic Go approach, providing clarity and maintainability. Constructor functions are useful when initialization logic is needed. Understanding zero values is crucial for writing correct Go code.
+
 ---
-### Related Notes:
+
+### Related Notes
+
+- [[Go Structs Overview]]
+- [[Defining a Struct in Go]]
 - [[Memory Management of Structs]]
 - [[Best Practices for Go Structures]]

@@ -32,6 +32,8 @@ Integrating systems with Active Directory significantly streamlines user managem
 ### **Related Notes**
 
 - [[Authentication Mechanisms]]
+- [[Authentication and Authorization]]
 - [[Network Security Best Practices]]
-- [[Secure Coding Practices]]
-- [What is a Network](What%20is%20a%20Network.md)
+- [[What is a Network]]
+- [[DHCP]]
+- [[DNS (Domain Name System)]]

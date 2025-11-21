@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #OperatingSystems #Synchronization #KernelSpace #UserSpace #Concurrency
 
 ---
 
@@ -42,8 +42,15 @@ Kernel vs. user space synchronization refers to the mechanisms and strategies us
 - **Kernel Space:** File system locks, network buffer management.
 - **User Space:** Application-level thread synchronization using mutexes or condition variables.
 
+### Personal Insight
+
+Understanding the distinction between kernel and user space synchronization is crucial for writing efficient concurrent applications. User space synchronization is preferable for performance-critical applications when possible, but kernel space synchronization is necessary for system-wide resource management and inter-process coordination.
+
 ### **Related Notes**
 
-- Best Practices in Synchronization
-- System Calls for Synchronization
-- Monitors in Synchronization
+- [[Mutexes]]
+- [[Semaphores]]
+- [[Monitors in Synchronization]]
+- [[Implementation Details]]
+- [[Deadlocks and Starvation]]
+- [[Priority Inversion]]

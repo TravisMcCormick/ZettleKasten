@@ -25,9 +25,14 @@
 
 **Docker revolutionized the way developers build and deploy applications** by providing a consistent environment across different stages of development. Its lightweight nature compared to virtual machines makes it an essential tool in modern DevOps practices.
 
-### Related Notes
+### **Related Notes**
 
+- [[Containerization]]
 - [[Container Orchestration with Kubernetes]]
 - [[Virtualization vs. Containerization]]
 - [[DevOps Practices]]
-- [Microservices Architecture](Microservices%20Architecture.md)
+- [[Microservices Architecture]]
+- [[Portainer]]
+- [[Docker_Stacks]]
+- [[CI - CD pipeline]]
+- [[Cloud Computing]]

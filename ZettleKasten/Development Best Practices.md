@@ -1,4 +1,4 @@
-**Tags**: #SoftwareDevelopment #BestPractices #CodingStandards #Agile
+﻿**Tags:** #software-development #best-practices #coding-standards #agile #devops
 
 ---
 
@@ -70,6 +70,13 @@
 
 **Adhering to development best practices is crucial for building scalable, reliable, and secure software**. By fostering a culture of quality, collaboration, and continuous improvement, development teams can deliver products that meet user expectations and stand the test of time.
 
-### Related Notes
+### **Related Notes**
 
 - [[DevOps Practices]]
+- [[Git]]
+- [[Version Control Systems]]
+- [[Continuous Integration]]
+- [[Continuous Deployment]]
+- [[Automated Testing]]
+- [[Debugging Techniques]]
+- [[Integrated Development Environments (IDEs)]]

@@ -1,4 +1,4 @@
-Tags: #LockPicking #Techniques #Decoding
+**Tags:** #lock-picking #techniques #decoding #physical-security
 
 ---
 
@@ -32,8 +32,11 @@ Decoding is a blend of analytical thinking and technical skill, providing an alt
 
 ### **Related Notes**
 
-- [[Lock Types]]
 - [[Lock Picking Techniques]]
 - [[Advanced Lock Picking Techniques]]
-- [[Single Pin Picking (SPP)]]
 - [[Impressioning]]
+- [[Single Pin Picking (SPP)]]
+- [[Lock Picking]]
+- [[Lock Types]]
+- [[Lock Picking Tools]]
+- [[High-Security Locks]]

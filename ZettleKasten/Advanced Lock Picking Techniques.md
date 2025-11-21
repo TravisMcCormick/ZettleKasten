@@ -1,4 +1,4 @@
-Tags: #LockPicking #Techniques #AdvancedTechniques
+**Tags:** #lock-picking #techniques #security #physical-security
 
 ---
 
@@ -35,11 +35,13 @@ Mastering advanced lock-picking techniques elevates the practice from a basic sk
 
 ### **Related Notes**
 
+- [[Lock Picking Techniques]]
 - [[Single Pin Picking (SPP)]]
 - [[Raking Techniques]]
 - [[Impressioning]]
 - [[Electric Pick Guns]]
 - [[Decoding Locks]]
 - [[Bump Keys]]
-- [[Lock Picking Techniques]]
 - [[Lock Picking Tools]]
+- [[High-Security Locks]]
+- [[Anti-Pick Features in Locks]]

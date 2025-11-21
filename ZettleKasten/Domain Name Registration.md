@@ -1,4 +1,4 @@
-**Tags:** #DNS #DomainRegistration #Internet #WebSecurity
+**Tags:** #dns #domain-names #internet #web #networking
 
 ---
 
@@ -35,8 +35,11 @@ Securing a suitable domain name is a foundational step in establishing an online
 
 ### **Related Notes**
 
-- [DNS (Domain Name System)](DNS%20(Domain%20Name%20System).md)
-- [Public IP Address](Public%20IP%20Address.md)
+- [[DNS (Domain Name System)]]
+- [[DNS Configuration]]
+- [[Top-Level Domanins (TLDs)]]
 - [[Subdomain Management]]
 - [[What is an IP Address]]
-- [[What is a Network]] 
+- [[HTTPS Protocol]]
+- [[Certificate Authorities (CA)]]
+- [[Digital Certificates]] 

@@ -1,4 +1,4 @@
-**Tags:** #Networking #Protocols #Communication
+**Tags:** #networking #protocols #communication #tcp-ip #osi-model
 
 ---
 
@@ -52,7 +52,11 @@ Networking protocols are the languages of the internet. Understanding them is ke
 ### **Related Notes**
 
 - [[OSI Model Overview]]
-- [[TCP Model]]
-- [[Data Link Layer]]
-- [[Routers]]
-- [[Network Nodes]]
+- [[HTTP Protocol]]
+- [[HTTPS Protocol]]
+- [[DNS (Domain Name System)]]
+- [[BGP (Border Gateway Protocol)]]
+- [[Ethernet Protocol]]
+- [[Address Resolution Protocol (ARP)]]
+- [[FTP Protocol]]
+- [[Transport Layer]]

@@ -1,4 +1,4 @@
-**Tags**: #ReverseEngineering #IDAPro #Disassembly #Debugging
+**Tags:** #reverse-engineering #binary-analysis #tools #disassembly #debugging
 
 ---
 
@@ -84,10 +84,15 @@ _Note: Shortcut keys may vary based on IDA Pro versions and user configurations.
 
 **IDA Pro remains a cornerstone tool in the field of reverse engineering**, offering unparalleled depth in static analysis. Its combination of disassembly, decompilation, and interactive features empowers analysts to dissect and understand complex binaries effectively.
 
-### Related Notes
+### **Related Notes**
 
 - [[Techniques for Reverse Engineering]]
 - [[Hex-Rays Decompiler]]
-- [[Ghidra]]
-- [Binary Ninja](Binary%20Ninja.md)
+- [[IDA Pro Shortcuts]]
+- [[IDA Pro Plugins]]
 - [[IDA Free]]
+- [[Ghidra]]
+- [[Binary Ninja]]
+- [[Differences Between Ghidra, Binary Ninja, and IDA]]
+- [[Assembly Language Fundamentals]]
+- [[Malware Analysis Techniques]]

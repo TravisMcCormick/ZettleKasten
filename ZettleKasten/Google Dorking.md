@@ -1,4 +1,4 @@
-**Tags:** 
+﻿**Tags:** #Security #Reconnaissance #OSINT #GoogleDorking #InformationGathering
 
 ---
 
@@ -39,5 +39,4 @@ Google Dorking, also known as Google hacking, involves using advanced search ope
 
 ### **Related Notes**
 
-- Cache Poisoning
-- Firewalls and Network Security
+- [[Firewalls and Network Security]]

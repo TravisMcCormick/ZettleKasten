@@ -1,4 +1,4 @@
-**Tags:** #Networking #Security #Firewalls #BestPractices
+**Tags:** #firewall #network-security #security #best-practices #configuration
 
 ---
 
@@ -17,6 +17,11 @@ A well-configured firewall is a critical component of network security. Neglecti
 
 ### **Related Notes**
 
+- [[What is a Firewall]]
+- [[Firewalls and Network Security]]
+- [[Configure Firewall Rules]]
 - [[Firewall Policies and Rules]]
 - [[Firewall Logs and Monitoring]]
-- [[Firewall Security Risks and Vulnerabilities]]
+- [[Types of Firewalls]]
+- [[Network Security Best Practices]]
+- [[Enable and Configure Firewall]]

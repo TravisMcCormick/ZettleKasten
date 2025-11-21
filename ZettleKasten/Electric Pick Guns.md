@@ -1,4 +1,4 @@
-Tags: #LockPicking #Tools #ElectricPickGun
+**Tags:** #LockPicking #Tools #Security #PhysicalSecurity
 
 ---
 

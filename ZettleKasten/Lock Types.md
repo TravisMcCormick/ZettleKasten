@@ -1,4 +1,4 @@
-Tags: #LockPicking #LockTypes #PinTumbler #Wafer #Disc
+**Tags:** #LockPicking #Locks #PhysicalSecurity #Hardware #Security
 
 ---
 

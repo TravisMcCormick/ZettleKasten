@@ -1,4 +1,4 @@
-Tags: #LockPicking #Tools #Techniques #Security #Legal #History
+**Tags:** #lock-picking #physical-security #techniques #tools #locksmithing
 
 ---
 

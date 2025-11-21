@@ -1,4 +1,5 @@
-**Tags:** 
+**Tags:** #security #firewall #network-security #cybersecurity
+
 ---
 
 ### **Definition**
@@ -34,6 +35,12 @@ Firewalls are security devices or software that monitor and control incoming and
 
 ### **Related Notes**
 
-- Cache Poisoning
-- DNS Zone Transfer
-- Google Dorking
+- [[What is a Firewall]]
+- [[Types of Firewalls]]
+- [[Packet Filtering Firewall]]
+- [[Next-Generation Firewall (NGFW)]]
+- [[Firewall Configuration Best Practices]]
+- [[Configure Firewall Rules]]
+- [[Firewall Logs and Monitoring]]
+- [[Intrusion Detection Systems (IDS)]]
+- [[Network Security Best Practices]]

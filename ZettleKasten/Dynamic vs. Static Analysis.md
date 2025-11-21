@@ -1,4 +1,4 @@
-**Tags**: #ReverseEngineering #SoftwareAnalysis #DynamicAnalysis #StaticAnalysis
+**Tags:** #reverse-engineering #analysis #malware-analysis #security-testing
 
 ---
 
@@ -45,10 +45,14 @@
 
 **Employing both dynamic and static analysis provides a comprehensive understanding of software**, essential for thorough security assessments and reverse engineering efforts.
 
-### Related Notes
+### **Related Notes**
 
-- [Techniques for Reverse Engineering](Techniques%20for%20Reverse%20Engineering.md)
+- [[Techniques for Reverse Engineering]]
 - [[Malware Analysis Techniques]]
 - [[IDA Pro]]
 - [[Ghidra]]
-- [Emulation in Reverse Engineering](Emulation%20in%20Reverse%20Engineering.md)
+- [[Binary Ninja]]
+- [[Debugging Techniques]]
+- [[Debugging Tools]]
+- [[Assembly Language Fundamentals]]
+- [[Anti-Debugging Techniques]]

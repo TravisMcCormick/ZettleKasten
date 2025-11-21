@@ -1,6 +1,6 @@
-
+﻿
 ---
-Cryptokey routing maps each peer’s public key to its allowed tunnel IPs. Config uses an INI format:
+Cryptokey routing maps each peerâ€™s public key to its allowed tunnel IPs. Config uses an INI format:
 
 ```
 [Interface]
@@ -19,5 +19,3 @@ AllowedIPs serves as both routing and ACL; PersistentKeepalive counters NAT time
 
 ---
 ### **Related notes:**  
-- [[WireGuard – Simplicity of Interface]]
-- [[WireGuard – Static Structure]]
