@@ -32,4 +32,3 @@ func main() {
 - [[Defining and Calling a Function]]
 - [[Higher-Order Functions]]
 - [[Functions as First-Class Citizens]]
-- [[Go Concurrency Overview]]

@@ -44,6 +44,3 @@ Smart locks epitomize the convergence of traditional security measures with mode
 - [[Access Control Systems]]
 - [[High-Security Locks]]
 - [[Security Measures Against Lock Picking]]
-- [[Lock Types]]
-- [[Lock Picking Techniques]]
-- [[Lock Picking Tools]]

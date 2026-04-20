@@ -110,4 +110,3 @@ chmod +x /path/to/script.sh
 - [[Automation Tools]]
 - [[System Maintenance]]
 - [[Backup Configurations]]
-- [[Monitoring and Logging]]

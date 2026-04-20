@@ -30,4 +30,3 @@
 - [[Cloud Storage Solutions]]
 - [[DevOps Practices]]
 - [[API]]
-- [[Microservices Architecture]]

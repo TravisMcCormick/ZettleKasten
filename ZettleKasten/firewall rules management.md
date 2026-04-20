@@ -39,5 +39,3 @@ Automated firewall rules management is essential for modern infrastructure. Manu
 - [[Infrastructure as Code]]
 - [[Firewall Configuration Best Practices]]
 - [[Firewall Policies and Rules]]
-- [[Configuration Management]]
-- [[DevOps Practices]]

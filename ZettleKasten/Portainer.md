@@ -31,5 +31,3 @@
 - [[Container Orchestration with Kubernetes]]
 - [[Containerization]]
 - [[DevOps Practices]]
-- [[Monitoring and Logging]]
-- [[CasaOS]]

@@ -91,3 +91,9 @@ dv.container.innerHTML = `
 
 *Give the table a second to load on startup or after adding a new task*
 *If you change the name of the file, open the dataviewjs code and then close it to fix*
+---
+
+### **Related Notes**
+
+- [[Development Best Practices]]
+

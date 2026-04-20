@@ -54,4 +54,3 @@
 - [[Secure Coding Practices]]
 - [[Web Security Best Practices]]
 - [[Authentication and Authorization]]
-- [[Session Management]]

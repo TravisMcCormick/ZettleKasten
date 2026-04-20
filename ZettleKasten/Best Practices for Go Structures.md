@@ -24,7 +24,3 @@
 - [[Defining a Struct in Go]]
 - [[Initializing Go Structs]]
 - [[Struct Tags]]
-- [[Embedding (Composition)]]
-- [[Memory Management of Structs]]
-- [[Go Structs vs. C++ Classes]]
-- [[Development Best Practices]]

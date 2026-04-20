@@ -27,5 +27,3 @@ The **Batarang**, also known as the "S-Rake" or "Triple Rake," is a zipping rake
 - [[Raking Techniques]]
 - [[Standard Short Hook]]
 - [[Bump Keys]]
-- [[Choosing Lock Picks]]
-- [[Lock Picking Tools]]

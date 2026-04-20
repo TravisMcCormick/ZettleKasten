@@ -30,6 +30,6 @@ Cache poisoning is a type of cyberattack where an attacker injects false or mali
 
 ### **Related Notes**
 
-- DNS Zone Transfer
-- Firewalls and Network Security
-- Google Dorking
+- [[DNS (Domain Name System)]]
+- [[DNS Security Extensions (DNSSEC)]]
+- [[DNS Zone Transfer]]

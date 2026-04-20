@@ -47,7 +47,3 @@ The **Central Processing Unit (CPU)** is the primary component of a computer tha
 - [[Computer Hardware Components]]
 - [[Memory Hierarchy]]
 - [[Instruction Set Architecture]]
-- [[CPU Performance Metrics]]
-- [[Dark Silicon]]
-- [[System Interconnects]]
-- [[Hardware Security]]

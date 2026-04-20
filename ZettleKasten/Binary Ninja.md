@@ -29,6 +29,3 @@
 - [[Ghidra]]
 - [[Techniques for Reverse Engineering]]
 - [[Binary Ninja Plugins]]
-- [[Binary Ninja Shortcuts]]
-- [[Differences Between Ghidra, Binary Ninja, and IDA]]
-- [[Decompilation Theory]]

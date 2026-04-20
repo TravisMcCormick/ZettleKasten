@@ -33,8 +33,11 @@ Performance considerations involve analyzing and optimizing various aspects of a
 - **Database Performance:** Indexing frequently queried columns to accelerate query execution.
 - **System Scaling:** Migrating from a monolithic architecture to microservices to enhance scalability and fault tolerance.
 
+---
+
 ### **Related Notes**
 
-- Best Practices in Synchronization
-- Kernel vs. User Space Synchronization
-- OrthoLinear Keyboard Layout
+- [[CPU Performance Metrics]]
+- [[Concurrency and Parallelism]]
+- [[Monitoring and Logging]]
+

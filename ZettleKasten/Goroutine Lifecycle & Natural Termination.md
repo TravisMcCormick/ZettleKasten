@@ -39,4 +39,3 @@ Understanding goroutine lifecycle is crucial for writing correct concurrent Go p
 - [[What Is a Goroutine]]
 - [[Why You Must Coordinate Completion]]
 - [[Pattern - Context Cancellation]]
-- [[Pattern - sync.WaitGroup]]

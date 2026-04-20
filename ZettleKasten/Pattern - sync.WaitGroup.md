@@ -20,3 +20,9 @@ wg.Wait()
 - `Wait()` blocks until counter is zero
 
 ---
+---
+
+### **Related Notes**
+
+- [[Go Concurrency Overview]]
+

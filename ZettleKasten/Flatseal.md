@@ -73,4 +73,9 @@ Flatseal is an essential tool for any Linux user running Flatpak applications. I
 ---
 
 ### Related Notes
+---
+
+### **Related Notes**
+
+- [[Linux File System]]
 

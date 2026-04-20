@@ -32,5 +32,3 @@ type Person struct {
 - [[Best Practices for Go Structures]]
 - [[Interfaces]]
 - [[Defining a Struct in Go]]
-- [[Go Structs vs. C++ Classes]]
-- [[Go Structs vs. Python Classes and Dicts]]

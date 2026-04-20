@@ -47,7 +47,3 @@ A thorough understanding of computer hardware components is essential for optimi
 - [[Memory Hierarchy]]
 - [[Hard Drives (HDD)]]
 - [[Computer Architecture Basics]]
-- [[System Interconnects]]
-- [[Network Interface Cards (NIC)]]
-- [[Dark Silicon]]
-- [[TPM]]

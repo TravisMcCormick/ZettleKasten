@@ -29,8 +29,3 @@ Tags: #LockPicking #Techniques #SinglePinPicking #SPP
 - [[Gem Lock Pick]]
 - [[Half-Diamond Lock Pick]]
 - [[Deeper Hooks]]
-- [[Offset Hooks]]
-- [[Peterson Reach Lock Pick]]
-- [[Lock Picking Techniques]]
-- [[Lock Picking Tools]]
-- [[Deforest Diamond Lock Pick]]

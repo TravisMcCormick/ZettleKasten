@@ -33,4 +33,3 @@
 - [[Intrusion Detection Systems (IDS) vs. Firewalls]]
 - [[Cyber Threat Intelligence]]
 - [[Monitoring and Logging]]
-- [[Incident Response Process]]

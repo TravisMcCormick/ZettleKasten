@@ -464,3 +464,9 @@ The paper focuses on overcoming specific challenges to achieve zero downtime in 
 - **Future Work**:
     - Encourages the adoption of these techniques and tools to enhance deployment processes.
     - Suggests further exploration of automated pipelines integrating these strategies.
+---
+
+### **Related Notes**
+
+- [[Networking Protocols]]
+

@@ -24,5 +24,3 @@
 - [[Choosing Lock Picks]]
 - [[Lock Picking Techniques]]
 - [[Single Pin Picking (SPP)]]
-- [[Raking Techniques]]
-- [[Importance of Practice in Lock Picking]]

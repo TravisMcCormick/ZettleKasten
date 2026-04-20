@@ -43,4 +43,3 @@ Biometric locks represent the forefront of security technology, blending conveni
 - [[Smart Locks]]
 - [[High-Security Locks]]
 - [[Security Measures Against Lock Picking]]
-- [[Lock Types]]

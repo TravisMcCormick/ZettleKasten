@@ -31,4 +31,3 @@ Full Cone NAT is the most WebRTC-friendly NAT type, as it allows direct peer-to-
 - [[STUN Server]]
 - [[TURN Server]]
 - [[Network Address Translation (NAT)]]
-- [[ICE Candidate]]

@@ -38,4 +38,3 @@ Robust authentication mechanisms are the first line of defense against unauthori
 - [[Secure Web Practices]]
 - [[Multi-Factor Authentication]]
 - [[Public Key Infrastructure (PKI)]]
-- [[TLS - SSL Protocols]]

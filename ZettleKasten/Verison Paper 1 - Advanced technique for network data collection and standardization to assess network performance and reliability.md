@@ -411,3 +411,9 @@ With this foundational knowledge, you're now equipped to understand the detailed
     - **Istio**: Handles traffic routing between service versions.
     - **Liquibase**: Manages database schema changes.
     - **Load Balancer**: Distributes traffic based on routing rules.
+---
+
+### **Related Notes**
+
+- [[Networking Protocols]]
+

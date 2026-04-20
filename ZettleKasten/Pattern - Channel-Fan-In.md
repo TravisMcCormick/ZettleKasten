@@ -19,3 +19,9 @@ for j := 1; j <= N; j++ {
 - Main reads exactly N values
 
 ---
+---
+
+### **Related Notes**
+
+- [[Why You Must Coordinate Completion]]
+

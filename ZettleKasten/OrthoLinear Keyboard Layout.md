@@ -36,6 +36,9 @@ An OrthoLinear keyboard layout is a type of keyboard design where the keys are a
 - **Preonic:** A slightly larger ortholinear keyboard with more keys for additional functionality.
 - **ErgoDox EZ:** While not strictly ortholinear, it offers a split and customizable layout with some ortholinear features.
 
+---
+
 ### **Related Notes**
 
-- Performance Considerations
+- [[Computer Architecture Basics]]
+

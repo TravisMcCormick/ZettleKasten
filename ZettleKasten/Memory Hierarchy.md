@@ -35,7 +35,3 @@ Understanding the memory hierarchy is crucial for optimizing application perform
 - [[Computer Hardware Components]]
 - [[Hard Drives (HDD)]]
 - [[Data Storage Technologies]]
-- [[CPU Performance Metrics]]
-- [[Memory Management of Structs]]
-- [[memory footprint]]
-- [[Memresistor]]

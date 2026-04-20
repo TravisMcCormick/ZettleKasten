@@ -44,5 +44,3 @@ Responsible use of lock picking is foundational to maintaining the integrity and
 - [[Legal Aspects of Lock Picking]]
 - [[Lock Picking as a Hobby]]
 - [[Lock Picking]]
-- [[Security Measures Against Lock Picking]]
-- [[Responsible Use of Lock Picking]]

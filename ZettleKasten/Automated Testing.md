@@ -67,5 +67,3 @@
 - [[Continuous Deployment]]
 - [[DevOps Practices]]
 - [[CI - CD pipeline]]
-- [[Development Best Practices]]
-- [[Build Automation Tools]]

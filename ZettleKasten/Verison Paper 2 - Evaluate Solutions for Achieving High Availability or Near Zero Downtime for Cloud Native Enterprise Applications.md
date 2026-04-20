@@ -521,3 +521,9 @@ Service Availability=Service UptimeService Uptime+Service Outage\text{Servic
 - **Example with Five Nines (99.999%)**:
     - Permissible downtime is approximately 5 minutes and 16 seconds per year.
     - Correct calculations are essential to design systems that meet this stringent requirement.
+---
+
+### **Related Notes**
+
+- [[Cloud Computing]]
+

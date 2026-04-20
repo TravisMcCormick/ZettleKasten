@@ -22,5 +22,3 @@
 - [[Application Layer]]
 - [[Transport Layer]]
 - [[API]]
-- [[Web Security Best Practices]]
-- [[Data Transfer Protocols]]

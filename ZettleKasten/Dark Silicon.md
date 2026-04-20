@@ -41,6 +41,3 @@
 - [[Computer Architecture Basics]]
 - [[CPU Performance Metrics]]
 - [[Computer Hardware Components]]
-- [[System Interconnects]]
-- [[Instruction Set Architecture]]
-

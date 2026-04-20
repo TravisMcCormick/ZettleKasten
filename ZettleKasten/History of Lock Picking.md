@@ -40,4 +40,3 @@ The history of lock picking mirrors the perpetual arms race between lock manufac
 - [[Lock Types]]
 - [[Lock Picking as a Hobby]]
 - [[Ethics in Lock Picking]]
-- [[Lock Picking Techniques]]

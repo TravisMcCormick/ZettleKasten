@@ -28,8 +28,10 @@ A DNS Zone Transfer is the process of copying DNS records from a primary DNS ser
 - **host:** Simplified DNS lookup utility.
 - **dnssec-tools:** Suite for securing DNS operations.
 
+---
+
 ### **Related Notes**
 
-- DNS Cache Poisoning
-- Firewalls and Network Security
-- Top-Level Domains (TLDs)
+- [[DNS (Domain Name System)]]
+- [[DNS Security Extensions (DNSSEC)]]
+

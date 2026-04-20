@@ -33,5 +33,3 @@ Think of BGP as a global traffic controller that keeps track of all the roads (n
 - [[ISP]]
 - [[Aggregator]]
 - [[Network Infrastructure]]
-- [[Routing Protocols]]
-- [[What is an IP Address]]

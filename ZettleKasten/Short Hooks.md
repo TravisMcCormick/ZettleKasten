@@ -27,5 +27,3 @@
 - [[Gem Lock Pick]]
 - [[Half-Diamond Lock Pick]]
 - [[Single Pin Picking (SPP)]]
-- [[Choosing Lock Picks]]
-- [[Lock Picking Tools]]

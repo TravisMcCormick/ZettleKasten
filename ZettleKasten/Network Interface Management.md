@@ -13,3 +13,9 @@ Network interface configuration:
 	- Requires confirmation
 
 ---
+---
+
+### **Related Notes**
+
+- [[Configuration Error Handling]]
+

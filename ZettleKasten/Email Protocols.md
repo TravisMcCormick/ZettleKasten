@@ -31,5 +31,3 @@
 - [[Networking Protocols]]
 - [[HTTP Protocol]]
 - [[HTTPS Protocol]]
-- [[PGP]]
-- [[Data Transfer Protocols]]

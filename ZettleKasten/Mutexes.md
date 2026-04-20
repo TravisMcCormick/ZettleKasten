@@ -56,6 +56,3 @@ Mutexes are essential for safe multithreaded programming but require careful han
 - [[Deadlocks and Starvation]]
 - [[Priority Inversion]]
 - [[Critical Section Problem]]
-- [[Semaphores]]
-- [[Monitors in Synchronization]]
-- [[Kernel vs. User Space Synchronization]]

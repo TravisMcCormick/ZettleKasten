@@ -21,7 +21,3 @@ A well-configured firewall is a critical component of network security. Neglecti
 - [[Firewalls and Network Security]]
 - [[Configure Firewall Rules]]
 - [[Firewall Policies and Rules]]
-- [[Firewall Logs and Monitoring]]
-- [[Types of Firewalls]]
-- [[Network Security Best Practices]]
-- [[Enable and Configure Firewall]]

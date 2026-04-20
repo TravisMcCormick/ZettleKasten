@@ -54,6 +54,3 @@
 - [[Cloud Disaster Recovery]]
 - [[Incident Response Process]]
 - [[Cloud Storage Solutions]]
-- [[Backup Configurations]]
-- [[Physical Security Measures]]
-- [[Monitoring and Logging]]

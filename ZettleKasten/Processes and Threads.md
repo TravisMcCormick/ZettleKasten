@@ -32,8 +32,3 @@ Threads offer a powerful way to improve application performance through concurre
 - [[Synchronization Primitives]]
 - [[Mutexes]]
 - [[Thread vs. Goroutine]]
-- [[What Is an OS Thread]]
-- [[What Is a Goroutine]]
-- [[Operating System Fundamentals]]
-- [[Context-Switching (OS vs. Go)]]
-- [[Go Concurrency Overview]]

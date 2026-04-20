@@ -104,4 +104,3 @@
 - [[IDA Pro Shortcuts]]
 - [[Hex-Rays Decompiler]]
 - [[IDA Free]]
-- [[Ghidra Plugins]]

@@ -142,9 +142,3 @@ tpm2_getrandom
 - [[Data Encryption Techniques]]
 - [[Cryptographic Key Management]]
 - [[Cryptographic Algorithms]]
-- [[Digital Certificates]]
-- [[Authentication Mechanisms]]
-- [[Computer Hardware Components]]
-- [[Encrypt Sensitive Data]]
-- [[Physical Security Measures]]
-

@@ -35,5 +35,3 @@ Bump keys exemplify the balance between tool utility and security vulnerability.
 - [[Advanced Lock Picking Techniques]]
 - [[Electric Pick Guns]]
 - [[Lock Types]]
-- [[Lock Picking Techniques]]
-- [[High-Security Locks]]

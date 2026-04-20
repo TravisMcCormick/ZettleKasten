@@ -5,3 +5,10 @@
     - **Protecting Personal Information:** Keeping data safe on public Wi-Fi networks.
     - **Accessing Restricted Content:** Watching shows or accessing websites that are only available in certain countries.
 - **Example:** Think of a VPN as sending your letters inside a locked box that only you and your friend can open. Even if someone intercepts the box, they can’t read the letters inside.
+---
+
+### **Related Notes**
+
+- [[Gateway]]
+- [[Wireguard]]
+

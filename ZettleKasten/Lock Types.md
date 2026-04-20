@@ -33,8 +33,3 @@ A deep understanding of various lock types not only aids in effective lock picki
 - [[High-Security Locks]]
 - [[Biometric Locks]]
 - [[Smart Locks]]
-- [[Lock Pins]]
-- [[History of Lock Picking]]
-- [[Access Control Systems]]
-- [[Lock Picking Tools]]
-- [[Anti-Pick Features in Locks]]

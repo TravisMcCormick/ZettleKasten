@@ -36,5 +36,3 @@ The SMB protocol is fundamental to modern networked environments, especially in 
 - [[Authentication Mechanisms]]
 - [[Secure Coding Practices]]
 - [[Network Infrastructure]]
-- [[What is a Network]]
-- [Firewall Configuration Best Practices](Firewall%20Configuration%20Best%20Practices.md)

@@ -112,9 +112,3 @@ The latest major version includes:
 - [[SIEM]]
 - [[Firewalls and IDS Integration]]
 - [[Network Traffic Analysis]]
-- [[Packet Filtering Firewall]]
-- [[Network Security Best Practices]]
-- [[Splunk]]
-- [[Wazuh]]
-- [[Monitoring and Logging]]
-

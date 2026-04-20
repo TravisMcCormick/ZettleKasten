@@ -29,4 +29,3 @@ Designing synchronization for real-time systems is challenging but essential. It
 - [[Mutexes]]
 - [[Semaphores]]
 - [[Priority Inversion]]
-- [[Deadlocks and Starvation]]

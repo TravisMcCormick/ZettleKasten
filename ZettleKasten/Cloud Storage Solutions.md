@@ -71,6 +71,3 @@
 - [[Data Backup Strategies]]
 - [[Cloud Disaster Recovery]]
 - [[Data Storage Technologies]]
-- [[Data Encryption Techniques]]
-- [[MongoDB]]
-- [[Network Attached Storage (NAS)]]

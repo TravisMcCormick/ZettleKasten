@@ -33,5 +33,3 @@ The efficiency and reliability of a network heavily depend on how nodes are conf
 - [[Network Infrastructure]]
 - [[Firewalls and Network Security]]
 - [[Networking Protocols]]
-- [[What is an IP Address]]
-- [[MAC Addresses]]

@@ -32,8 +32,3 @@
 - [[DNS Configuration]]
 - [[DNS Zone Transfer]]
 - [[What is an IP Address]]
-- [[How IP Addresses Facilitate Communication]]
-- [[Domain Name Registration]]
-- [[Top-Level Domanins (TLDs)]]
-- [[DHCP]]
-- [[Configure DNS Settings to Use Trusted Servers]]

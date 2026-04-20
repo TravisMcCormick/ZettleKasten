@@ -14,4 +14,3 @@ One router talks to multiple ISPs (Internet Service Providers), aggregating mult
 - [[ISP]]
 - [[BGP (Border Gateway Protocol)]]
 - [[Network Infrastructure]]
-- [[Gateway]]

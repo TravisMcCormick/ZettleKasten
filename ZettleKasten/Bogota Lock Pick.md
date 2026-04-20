@@ -27,5 +27,3 @@ The **Bogota** is a highly effective scrubbing rake known for its triple peaks, 
 - [[Raking Techniques]]
 - [[Snake Rake Lock Pick]]
 - [[Bias Against Multiple Lock Picks]]
-- [[Single Pin Picking (SPP)]]
-- [[Lock Picking Tools]]

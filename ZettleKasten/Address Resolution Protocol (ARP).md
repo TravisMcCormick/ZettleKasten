@@ -25,6 +25,3 @@
 - [[IP Spoofing]]
 - [[MAC Addresses]]
 - [[Data Link Layer]]
-- [[Networking Protocols]]
-- [[Ethernet Protocol]]
-- [[What is an IP Address]]

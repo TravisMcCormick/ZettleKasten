@@ -48,4 +48,3 @@ Go's approach of composition over inheritance simplifies code and avoids many pi
 - [[Defining a Struct in Go]]
 - [[Embedding (Composition)]]
 - [[Interfaces]]
-- [[Go Structs vs. C Structs]]

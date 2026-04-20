@@ -46,5 +46,5 @@ With this metaphor, coTurn is the dependable taxi service that ensures Alice and
 
 ---
 #### Related Notes:
-- [[coTurn]]
+- [[coTURN]]
 - [[WebRTC Metaphor]]

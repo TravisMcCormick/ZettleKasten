@@ -107,5 +107,3 @@ The **Ghidra Decompiler** is a powerful feature within the Ghidra software rever
 - [[Ghidra Plugins]]
 - [[Ghidra Shortcuts]]
 - [[Software Obfuscation Methods]]
-- [[IDA Pro]]
-- [[Hex-Rays Decompiler]]

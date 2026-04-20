@@ -37,8 +37,11 @@ System calls for synchronization are the interfaces provided by an operating sys
 - **POSIX Threads (pthreads):** A standard library for thread management and synchronization in Unix-like systems.
 - **Windows Synchronization APIs:** Functions like `CreateMutex`, `WaitForSingleObject`, and `ReleaseMutex` for managing synchronization in Windows environments.
 
+---
+
 ### **Related Notes**
 
-- Best Practices in Synchronization
-- Kernel vs. User Space Synchronization
-- Monitors in Synchronization
+- [[Kernel vs. User Space Synchronization]]
+- [[Mutexes]]
+- [[Processes and Threads]]
+

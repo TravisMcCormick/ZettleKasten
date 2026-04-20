@@ -22,5 +22,3 @@ The Network Layer is crucial for enabling internetworking - connecting multiple 
 - [[Transport Layer]]
 - [[OSI Model Overview]]
 - [[IPv4]]
-- [[IPv6]]
-- [[Gateway]]

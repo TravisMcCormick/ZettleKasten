@@ -59,6 +59,3 @@
 - [[DevOps Practices]]
 - [[Continuous Integration]]
 - [[Continuous Deployment]]
-- [[Configuration Management]]
-- [[Docker]]
-- [[Container Orchestration with Kubernetes]]

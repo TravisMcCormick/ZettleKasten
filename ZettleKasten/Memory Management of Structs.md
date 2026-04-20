@@ -37,4 +37,3 @@ Go's garbage collection simplifies memory management compared to C/C++, but unde
 - [[Initializing Go Structs]]
 - [[Best Practices for Go Structures]]
 - [[memory footprint]]
-- [[Memory Hierarchy]]

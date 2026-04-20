@@ -111,6 +111,3 @@
 - [[Data Transfer Protocols]]
 - [[Authentication Mechanisms]]
 - [[Data Encryption Techniques]]
-- [[Application Layer]]
-- [[Transport Layer Security (TLS)]]
-- [[Network Security Best Practices]]

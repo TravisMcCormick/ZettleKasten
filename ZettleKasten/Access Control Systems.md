@@ -47,7 +47,3 @@ Access control systems are integral to modern security frameworks, offering both
 - [[Smart Locks]]
 - [[Alarm Systems and Lock Security]]
 - [[High-Security Locks]]
-- [[Lock Types]]
-- [[Physical Security Measures]]
-- [[Authentication and Authorization]]
-- [[Multi-Factor Authentication]]

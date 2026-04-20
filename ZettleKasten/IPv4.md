@@ -22,7 +22,3 @@ IPv4 has been the backbone of internet addressing but is reaching its limits, ne
 - [[What is an IP Address]]
 - [[IP Address Structure in IPv4]]
 - [[IP Address Classes]]
-- [[Limitations of IPv4 and the Need for IPv6]]
-- [[Subnetting]]
-- [[Subnet Masks and CIDR Notation]]
-- [[DHCP]]

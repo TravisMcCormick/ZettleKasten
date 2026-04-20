@@ -53,3 +53,9 @@
 **Understanding telecommunications regulations is essential for providers and businesses in the communication sector**, ensuring compliance and adapting to legal obligations while fostering innovation.
 
 ---
+---
+
+### **Related Notes**
+
+- [[ISP]]
+

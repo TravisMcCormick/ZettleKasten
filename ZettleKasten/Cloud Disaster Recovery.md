@@ -71,5 +71,3 @@
 - [[Cloud Storage Solutions]]
 - [[Data Backup Strategies]]
 - [[Disaster Recovery Planning]]
-- [[Backup Configurations]]
-- [[DevOps Practices]]

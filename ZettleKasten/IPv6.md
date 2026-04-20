@@ -26,5 +26,3 @@
 - [[What is an IP Address]]
 - [[Limitations of IPv4 and the Need for IPv6]]
 - [[Subnetting]]
-- [[DHCP]]
-- [[How IP Addresses Facilitate Communication]]

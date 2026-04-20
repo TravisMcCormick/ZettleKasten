@@ -40,3 +40,9 @@ Network aggregation is the practice of consolidating multiple internet or networ
     - Complex QoS (Quality of Service) requirements
     - Increased reliance on aggregation layer uptime
     - Security considerations (e.g., unified threat surface)
+---
+
+### **Related Notes**
+
+- [[Aggregator]]
+

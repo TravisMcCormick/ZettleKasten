@@ -12,5 +12,11 @@
 
 ---
 ### Related Notes:
-- [[What is an OS Thread]]
-- [[What is a Goroutine]]
+- [[What Is an OS Thread]]
+- [[What Is a Goroutine]]
+---
+
+### **Related Notes**
+
+- [[Concurrency and Parallelism]]
+

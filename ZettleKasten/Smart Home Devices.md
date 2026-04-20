@@ -43,4 +43,3 @@ Smart home devices significantly enhance the quality of life by offering unparal
 - [[Internet of Things (IoT) Security]]
 - [[Network Infrastructure]]
 - [[Security Information and Event Management (SIEM)]]
-- [[What is a Network]]

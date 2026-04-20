@@ -30,10 +30,11 @@
 
 Implementing DNSSEC is crucial for maintaining the integrity of DNS infrastructure. While it adds complexity, the security benefits it provides in safeguarding internet navigation are invaluable.
 
+---
+
 ### **Related Notes**
 
-- [DNS (Domain Name System)](DNS%20(Domain%20Name%20System).md)
-- [Public Key Infrastructure (PKI)](Public%20Key%20Infrastructure%20(PKI).md)
-- [What is a Firewall](What%20is%20a%20Firewall.md)
-- [Transport Layer](Transport%20Layer.md)
-- [TLS - SSL Protocols](TLS%20-%20SSL%20Protocols.md)
+- [[DNS (Domain Name System)]]
+- [[Public Key Infrastructure (PKI)]]
+- [[Cryptographic Key Management]]
+

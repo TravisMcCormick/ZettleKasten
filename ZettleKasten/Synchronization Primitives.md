@@ -32,4 +32,3 @@ Choosing the appropriate synchronization primitive is vital for achieving both c
 - [[Semaphores]]
 - [[Monitors in Synchronization]]
 - [[Deadlocks and Starvation]]
-- [[Processes and Threads]]

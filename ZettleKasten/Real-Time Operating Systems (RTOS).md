@@ -32,4 +32,3 @@ RTOS environments demand careful synchronization to maintain real-time performan
 - [[Semaphores]]
 - [[Priority Inversion]]
 - [[Deadlocks and Starvation]]
-- [[Real-Time Constraints in Synchronization]]

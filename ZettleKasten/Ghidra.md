@@ -29,7 +29,3 @@
 - [[Binary Ninja]]
 - [[Techniques for Reverse Engineering]]
 - [[Ghidra Shortcuts]]
-- [[Ghidra Plugins]]
-- [[Ghidra Decompiler]]
-- [[Differences Between Ghidra, Binary Ninja, and IDA]]
-- [[Assembly Language Fundamentals]]

@@ -76,7 +76,3 @@
 - [[Git]]
 - [[Version Control Systems]]
 - [[Continuous Integration]]
-- [[Continuous Deployment]]
-- [[Automated Testing]]
-- [[Debugging Techniques]]
-- [[Integrated Development Environments (IDEs)]]

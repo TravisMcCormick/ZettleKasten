@@ -33,10 +33,11 @@
 
 A well-designed network infrastructure is the foundation of any successful IT strategy. It not only supports current operational needs but also provides the flexibility to adapt to future technological advancements and business requirements.
 
+---
+
 ### **Related Notes**
 
-- [Network Security Best Practices](Network%20Security%20Best%20Practices.md)
-- [Firewalls and IDS Integration](Firewalls%20and%20IDS%20Integration.md)
-- [Network Traffic Analysis](Network%20Traffic%20Analysis.md)
-- [Switches and Hubs](Switches%20and%20Hubs.md)
-- [What is a Network](What%20is%20a%20Network.md)
+- [[Network Security Best Practices]]
+- [[Routers]]
+- [[Switches and Hubs]]
+

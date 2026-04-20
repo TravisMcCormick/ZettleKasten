@@ -32,5 +32,3 @@
 - [[tmux]]
 - [[Linux Command Line Basics]]
 - [[zsh plugins]]
-- [[Oh My Zsh]]
-- [[Neovim]]

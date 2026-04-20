@@ -32,5 +32,3 @@ Ethics form the foundation of responsible lock picking. Upholding high ethical s
 - [[Lock Picking as a Hobby]]
 - [[Lock Picking]]
 - [[Lock Picking Techniques]]
-- [[History of Lock Picking]]
-- [[Physical Security Measures]]

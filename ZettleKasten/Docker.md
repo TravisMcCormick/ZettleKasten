@@ -31,8 +31,3 @@
 - [[Container Orchestration with Kubernetes]]
 - [[Virtualization vs. Containerization]]
 - [[DevOps Practices]]
-- [[Microservices Architecture]]
-- [[Portainer]]
-- [[Docker_Stacks]]
-- [[CI - CD pipeline]]
-- [[Cloud Computing]]

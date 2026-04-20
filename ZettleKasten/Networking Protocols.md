@@ -55,8 +55,3 @@ Networking protocols are the languages of the internet. Understanding them is ke
 - [[HTTP Protocol]]
 - [[HTTPS Protocol]]
 - [[DNS (Domain Name System)]]
-- [[BGP (Border Gateway Protocol)]]
-- [[Ethernet Protocol]]
-- [[Address Resolution Protocol (ARP)]]
-- [[FTP Protocol]]
-- [[Transport Layer]]

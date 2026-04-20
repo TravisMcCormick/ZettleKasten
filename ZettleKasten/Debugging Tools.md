@@ -51,7 +51,3 @@
 - [[Integrated Development Environments (IDEs)]]
 - [[IDA Pro]]
 - [[Ghidra]]
-- [[Binary Ninja]]
-- [[Development Best Practices]]
-- [[Automated Testing]]
-- [[Monitoring and Logging]]

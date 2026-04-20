@@ -41,7 +41,3 @@ PM2 sits between your Node processes and the OS's init system, providing advance
 - [[Integrated log management]]
 - [[abstraction]]
 - [[runtime process manager]]
-- [[Monitoring and Logging]]
-- [[DevOps Practices]]
-- [[Continuous Deployment]]
-- [[PM2 Help]]

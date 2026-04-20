@@ -27,5 +27,3 @@ The **Standard Short Hook** is a widely used lock pick in the Single Pin Picking
 - [[Single Pin Picking (SPP)]]
 - [[Gem Lock Pick]]
 - [[Lock Picking Tools]]
-- [[Choosing Lock Picks]]
-- [[Standard Short Hook]]

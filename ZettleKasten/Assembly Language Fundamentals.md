@@ -38,7 +38,3 @@
 - [[Computer Architecture Basics]]
 - [[Instruction Set Architecture]]
 - [[Dynamic vs. Static Analysis]]
-- [[IDA Pro]]
-- [[Ghidra]]
-- [[Binary Ninja]]
-- [[Hex-Rays Decompiler]]

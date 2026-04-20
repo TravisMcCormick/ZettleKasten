@@ -49,9 +49,9 @@ const pc = new RTCPeerConnection({
 ```
 
 #### **Responsibilities:**
-1. **NAT Traversal:** Orchestrates ICE gathering (host, server-reflexive, relay) to traverse NATs (see [[NAT]] and [[ICE Candidate]]).
+1. **NAT Traversal:** Orchestrates ICE gathering (host, server-reflexive, relay) to traverse NATs (see [[ICE Candidate]] for the candidate lifecycle; NAT explains why traversal is needed).
 2. **Media/Data Transport:** Once ICE negotiation succeeds, uses SRTP for audio/video and DTLS/SCTP for data channels.
-3. **Muxing:** Combines multiple media tracks and data channels over a single transport (see [[MUX & DemUX]]).
+3. **Muxing:** Combines multiple media tracks and data channels over a single transport (details in the MUX & DeMUX note).
 4. **Security:** Auto-generates ephemeral DTLS certificates; fingerprints are exchanged via SDP.
     
 #### **Typical Connection Flow:**
@@ -86,8 +86,8 @@ await pc.addIceCandidate(new RTCIceCandidate(remoteCandidate));
 ```
 
 5. **ICE Checks & Connection Establishment:**
-	- ICE pairs host ↔ host, host ↔ server-reflexive (via [[STUN Server]]), then host ↔ relay (via [[coTURN]]) based on priority.
-	- Once a valid path is found (even through a [[Proxy]] if necessary), `pc.onconnectionstatechange` moves to “connected.”
+	- ICE pairs host ↔ host, host ↔ server-reflexive (via STUN), then host ↔ relay (via [[coTURN]]) based on priority.
+	- Once a valid path is found (even through restrictive proxies when you fall back to TCP/TLS TURN), `pc.onconnectionstatechange` moves to “connected.”
 
 ### 4. Data Channels (`RTCDataChannel`)
 #### **Creation:**
@@ -104,28 +104,28 @@ pc.ondatachannel = event => {
 };
 ```
 
-- **Multiplexing:** Multiple data channels share the same SCTP/DTLS tunnel, which in turn rides on ICE’s single UDP transport (see [[MUX & DemUX]]).
+- **Multiplexing:** Multiple data channels share the same SCTP/DTLS tunnel, which in turn rides on ICE’s single UDP transport (expanded under “MUX & DeMUX” below).
 - **Use Cases:** File transfer, text chat, game state sync, IoT telemetry.
 
 ---
 ## NAT & Proxy Considerations
 - **NAT Types (see [[Full Cone NAT]]):**
     - Full Cone NAT is the most permissive: once a mapping is established, any external host can send packets back.
-    - Other NAT types (restricted or symmetric) may block unsolicited traffic, requiring a TURN relay (see [[coTURN]]).
+    - Other NAT types (restricted or symmetric) may block unsolicited traffic, requiring a TURN relay (often deployed with [[coTURN]]).
     
 - **Proxy Servers:**
     - May intercept HTTP/WebSocket-based signaling traffic.
-    - UDP-based media may be blocked by certain forward or reverse proxies, forcing WebRTC to rely on [[coTURN]] for relay.
+    - UDP-based media may be blocked by certain forward or reverse proxies, forcing WebRTC to rely on TURN relays (see [[coTURN]]).
     - Proper network configuration (e.g., HTTP CONNECT or TURN over TCP/TLS) can help WebRTC traverse proxies.
     
 
 ---
 ## P2P Transport & Multiplexing
-- **Peer-to-Peer Connection (see [[P2P Connection]]):**
-    - After ICE negotiation, media (RTP/RTCP) and data (SCTP) flow directly between peers under DTLS encryption.
+- **Peer-to-Peer Connection:**
+    - After ICE negotiation, media (RTP/RTCP) and data (SCTP) flow directly between peers under DTLS encryption (the end state is summarized in [[P2P Connection]]).
     - No central media server required (unless building an SFU/MCU for group calls).
     
-- **MUX & DemUX (see [[MUX & DemUX]]):**
+- **MUX & DeMUX (see [[MUX & DeMUX]]):**
     - One UDP/TCP/TLS port carries:
         1. RTP packets for audio/video (tagged by SSRC).
         2. SCTP packets for data channels (tagged by stream IDs).
@@ -143,20 +143,10 @@ pc.ondatachannel = event => {
     
 
 ---
-## Related Notes:
+## Related Notes
 
-- **[[WebRTC Metaphor]]** – A step-by-step analogy illustrating how peers meet in a hidden gazebo (signaling, ICE, STUN, TURN, P2P, etc.).
+- **[[WebRTC Metaphor]]** — narrative tour of signaling, ICE, STUN/TURN, and the eventual P2P path.
+- **[[ICE Candidate]]** — how candidates are gathered, prioritized, and checked.
+- **[[coTURN]]** — practical TURN deployment when UDP or NAT shape blocks a direct path.
+- **[[STUN Server]]** — how reflexive candidates are learned when a relay is not required.
     
-- **[[ICE Candidate]]** – Details on how WebRTC gathers and prioritizes host, server-reflexive (STUN), and relay (coTURN) candidates.
-    
-- **[[STUN Server]]** – Explains how STUN servers help peers discover their public IP/port behind a NAT.
-    
-- **[[coTURN]]** – A popular TURN server implementation providing relay candidates when direct connectivity fails.
-    
-- **[[P2P Connection]]** – Describes what happens once ICE and DTLS complete, establishing the direct transport channel.
-    
-- **[[MUX & DemUX]]** – Shows how multiple media tracks and data channels share a single encrypted transport.
-    
-- **[[NAT]]** & **[[Full Cone NAT]]** – Offer background on Network Address Translation types and their impact on connectivity.
-    
-- **[[Proxy]]** – Covers how HTTP/SOCKS proxies differ from NAT and how they can affect WebRTC traffic.

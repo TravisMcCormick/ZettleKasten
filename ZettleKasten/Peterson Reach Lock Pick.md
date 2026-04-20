@@ -27,7 +27,3 @@ The **Peterson Reach** is a high-quality offset hook designed for Single Pin Pic
 - [[Single Pin Picking (SPP)]]
 - [[Deeper Hooks]]
 - [[Deforest Diamond Lock Pick]]
-- [[Lock Picking Techniques]]
-- [[Lock Picking Tools]]
-- [[Choosing Lock Picks]]
-- [[Raking Techniques]]

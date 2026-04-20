@@ -27,5 +27,3 @@ The **Snake Rake** is a classic rake design featuring two peaks of different hei
 - [[Raking Techniques]]
 - [[Bogota Lock Pick]]
 - [[Lock Picking Techniques]]
-- [[Raking Techniques]]
-- [[Lock Picking Tools]]

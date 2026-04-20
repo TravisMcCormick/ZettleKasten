@@ -27,5 +27,3 @@ The **Gem Lock Pick** is a variation of the short hook, featuring a pointy tip t
 - [[Single Pin Picking (SPP)]]
 - [[Standard Short Hook]]
 - [[Half-Diamond Lock Pick]]
-- [[Lock Picking Tools]]
-- [[Choosing Lock Picks]]

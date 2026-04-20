@@ -33,5 +33,3 @@ Practice locks are indispensable tools for anyone serious about mastering lock p
 - [[Lock Picking Techniques]]
 - [[Lock Picking Tools]]
 - [[Choosing Lock Picks]]
-- [[Lock Types]]
-- [[Practice Locks for Lock Picking]]

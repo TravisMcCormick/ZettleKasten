@@ -24,8 +24,11 @@ Best practices in synchronization refer to the recommended strategies and method
 - **Immutable Objects:** Designing objects that cannot be modified after creation to avoid synchronization.
 - **Thread Pools:** Managing a limited number of threads to control resource usage and synchronization overhead.
 
+---
+
 ### **Related Notes**
 
-- Avoiding Deadlocks and Starvation
-- Kernel vs. User Space Synchronization
-- System Calls for Synchronization
+- [[Critical Section Problem]]
+- [[Deadlocks and Starvation]]
+- [[Mutexes]]
+

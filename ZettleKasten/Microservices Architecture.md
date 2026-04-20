@@ -56,5 +56,3 @@
 - [[Docker]]
 - [[Container Orchestration with Kubernetes]]
 - [[Monitoring and Logging]]
-- [[load-balancing]]
-- [[Gateway]]

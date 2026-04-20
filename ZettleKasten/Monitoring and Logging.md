@@ -56,7 +56,3 @@
 - [[Incident Response Process]]
 - [[DevOps Practices]]
 - [[health checks]]
-- [[Integrated log management]]
-- [[logrotate]]
-- [[inspection]]
-- [[monitoring agents]]

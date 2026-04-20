@@ -27,7 +27,3 @@ Use coTURN when you need a reliable fallback for peers behind restrictive NATs o
 - [[coTURN Metaphor]]
 - [[NAT]]
 - [[ICE Candidate]]
-- [[STUN Server]]
-- [[WebRTC]]
-- [[P2P Connection]]
-- [[Network Address Translation (NAT)]]

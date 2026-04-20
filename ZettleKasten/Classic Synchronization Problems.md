@@ -40,7 +40,3 @@ Studying these classic problems provides valuable insights into designing robust
 - [[Mutexes]]
 - [[Deadlocks and Starvation]]
 - [[Avoiding Deadlocks and Starvation]]
-- [[Critical Section Problem]]
-- [[Mutual Exclusion]]
-- [[Concurrency and Parallelism]]
-- [[Best Practices in Synchronization]]

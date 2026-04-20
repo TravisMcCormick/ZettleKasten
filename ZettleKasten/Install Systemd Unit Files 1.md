@@ -30,3 +30,9 @@ sudo systemctl status myapp.service
 ```
 
 ---
+---
+
+### **Related Notes**
+
+- [[systemd service features]]
+

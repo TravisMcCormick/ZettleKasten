@@ -41,7 +41,3 @@ Cloud computing has revolutionized the way organizations manage and deploy IT re
 - [[Virtualization Technologies]]
 - [[Container Orchestration with Kubernetes]]
 - [[Docker]]
-- [[Containerization]]
-- [[Cloud Storage Solutions]]
-- [[Cloud Disaster Recovery]]
-- [[DevOps Practices]]

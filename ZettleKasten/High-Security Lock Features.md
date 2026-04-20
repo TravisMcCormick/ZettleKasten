@@ -40,5 +40,3 @@ High-security locks embody the pinnacle of lock design, addressing the evolving 
 - [[Anti-Pick Features in Locks]]
 - [[Advanced Lock Picking Techniques]]
 - [[Lock Types]]
-- [[Security Measures Against Lock Picking]]
-- [[Lock Picking Techniques]]

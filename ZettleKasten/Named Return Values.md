@@ -13,3 +13,9 @@ func fullName(first, last string) (full string) {
 
 - Return values can be named in the function signature.
 - `return` without arguments uses the named return variables.
+---
+
+### **Related Notes**
+
+- [[Go Functions Overview]]
+

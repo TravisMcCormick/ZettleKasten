@@ -30,11 +30,12 @@
 
 Integrating firewalls with SSH is a fundamental practice for securing network infrastructures, especially in environments where remote management is necessary. This combination not only safeguards data transmission but also ensures that only authorized personnel can access critical systems, thereby strengthening overall security posture.
 
+---
+
 ### **Related Notes**
 
-- [Firewalls and IDS Integration](Firewalls%20and%20IDS%20Integration.md)
-- [Firewall Configuration Best Practices](Firewall%20Configuration%20Best%20Practices.md)
-- [Intrusion Detection Systems (IDS)](Intrusion%20Detection%20Systems%20(IDS).md)
-- [Secure Web Practices](Secure%20Web%20Practices.md)
-- [SSH (Secure Shell)](SSH%20(Secure%20Shell).md)
-- [What is a Firewall](What%20is%20a%20Firewall.md)
+- [[SSH (Secure Shell)]]
+- [[What is a Firewall]]
+- [[Firewall Configuration Best Practices]]
+- [[Firewalls and IDS Integration]]
+

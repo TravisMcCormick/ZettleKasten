@@ -34,5 +34,3 @@ Anti-pick features represent the ongoing evolution of lock security, responding 
 - [[High-Security Locks]]
 - [[Lock Types]]
 - [[Lock Picking Techniques]]
-- [[Single Pin Picking (SPP)]]
-- [[Raking Techniques]]

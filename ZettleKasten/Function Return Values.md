@@ -35,5 +35,3 @@ func main() {
 - [[Defining and Calling a Function]]
 - [[Multiple Return Values]]
 - [[Named Return Values]]
-- [[Anonymous Functions]]
-- [[Higher-Order Functions]]

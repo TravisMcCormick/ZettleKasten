@@ -41,9 +41,11 @@
 
 Implementing server security best practices is fundamental to maintaining a robust IT infrastructure. Proactive measures not only prevent security incidents but also ensure that critical services remain available and reliable for users.
 
+---
+
 ### **Related Notes**
 
-- [Network Security Best Practices](Network%20Security%20Best%20Practices.md)
-- [Intrusion Detection Systems (IDS)](Intrusion%20Detection%20Systems%20(IDS).md)
-- [Firewalls and SSH](Firewalls%20and%20SSH.md)
-- [What is a Firewall](What%20is%20a%20Firewall.md) 
+- [[Ubuntu Server]]
+- [[Secure SSH Configuration (Linux)]]
+- [[Enable Logging and Auditing]]
+

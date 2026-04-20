@@ -27,8 +27,3 @@ Lock picking is not only a practical skill but also a mental exercise that enhan
 - [[Ethics in Lock Picking]]
 - [[Legal Aspects of Lock Picking]]
 - [[Lock Picking as a Hobby]]
-- [[Lock Picking Tools]]
-- [[History of Lock Picking]]
-- [[Lock Types]]
-- [[Lock Pins]]
-- [[Security Measures Against Lock Picking]]

@@ -27,5 +27,3 @@
 - [[Single Pin Picking (SPP)]]
 - [[Standard Deep Hook]]
 - [[Peterson Reach Lock Pick]]
-- [[Deforest Diamond Lock Pick]]
-- [[Lock Picking Tools]]

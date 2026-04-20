@@ -59,8 +59,3 @@
 - [[DevOps Practices]]
 - [[Ansible control node]]
 - [[Ansible-driven deployment]]
-- [[Configuration Error Handling]]
-- [[Continuous Integration]]
-- [[CI - CD pipeline]]
-- [[Git]]
-- [[Automation Tools]]

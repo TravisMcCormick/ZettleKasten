@@ -21,6 +21,3 @@
 - [[Physical Layer]]
 - [[MAC Addresses]]
 - [[Address Resolution Protocol (ARP)]]
-- [[Network Interface Cards (NIC)]]
-- [[Switches and Hubs]]
-- [[Networking Protocols]]

@@ -28,13 +28,7 @@
 
 ### **Related Notes**
 
-- [[Network Address Translation (NAT)]]
+- [[WebRTC]]
 - [[Full Cone NAT]]
 - [[ICE Candidate]]
 - [[STUN Server]]
-- [[TURN Server]]
-- [[What is an IP Address]]
-- [[Private IP Address]]
-- [[Default Gateway]]
-- [[WebRTC]]
-- [[P2P Connection]]

@@ -1,4 +1,4 @@
-﻿## Overview
+## Overview
 This map covers Go language fundamentals, idioms, and best practices for building efficient applications.
 
 ---

@@ -19,3 +19,9 @@
 | os.Chdir("/path")         | Changes the working directory to the specified path.                                                     |
 
 ---
+---
+
+### **Related Notes**
+
+- [[Fat Go]]
+

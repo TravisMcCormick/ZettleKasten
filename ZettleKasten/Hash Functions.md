@@ -32,7 +32,3 @@
 - [[Data Integrity Mechanisms]]
 - [[Digital Certificates]]
 - [[Symmetric vs. Asymmetric Encryption]]
-- [[Encryption Standards]]
-- [[Cryptographic Protocols]]
-- [[PGP]]
-- [[Data Encryption Techniques]]

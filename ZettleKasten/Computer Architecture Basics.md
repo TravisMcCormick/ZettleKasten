@@ -55,8 +55,3 @@
 - [[Computer Hardware Components]]
 - [[Memory Hierarchy]]
 - [[Instruction Set Architecture]]
-- [[System Interconnects]]
-- [[Dark Silicon]]
-- [[TPM]]
-- [[Assembly Language Fundamentals]]
-- [[Virtual Memory]]

@@ -25,7 +25,6 @@
 
 - [[Batarang Lock Pick]]
 - [[Raking Techniques]]
-- [[Raking Techniques]]
 - [[Lock Picking Techniques]]
-- [[Zipping Rakes]]
+- Zipping Rakes
 - [[Lock Picking Tools]]

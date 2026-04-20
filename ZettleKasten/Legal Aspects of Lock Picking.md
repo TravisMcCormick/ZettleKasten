@@ -37,5 +37,3 @@ Navigating the legal landscape of lock picking is crucial for enthusiasts and pr
 - [[Responsible Use of Lock Picking]]
 - [[Lock Picking as a Hobby]]
 - [[Lock Picking]]
-- [[Security Measures Against Lock Picking]]
-- [[Legal Aspects of Lock Picking]]

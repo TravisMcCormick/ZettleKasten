@@ -52,8 +52,3 @@ The Data Link Layer is crucial for local network communication. It bridges the g
 - [[OSI Model Overview]]
 - [[Physical Layer]]
 - [[Network Layer]]
-- [[MAC Addresses]]
-- [[Ethernet Protocol]]
-- [[Address Resolution Protocol (ARP)]]
-- [[Switches and Hubs]]
-- [[Networking Protocols]]

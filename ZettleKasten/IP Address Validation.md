@@ -47,4 +47,3 @@ Proper IP address validation is crucial for network applications. While regex pa
 - [[IP Address Structure in IPv4]]
 - [[Input Validation Techniques]]
 - [[Gateway Validation Rules]]
-- [[DNS Configuration]]

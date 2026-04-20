@@ -39,7 +39,3 @@ Securing a suitable domain name is a foundational step in establishing an online
 - [[DNS Configuration]]
 - [[Top-Level Domanins (TLDs)]]
 - [[Subdomain Management]]
-- [[What is an IP Address]]
-- [[HTTPS Protocol]]
-- [[Certificate Authorities (CA)]]
-- [[Digital Certificates]] 

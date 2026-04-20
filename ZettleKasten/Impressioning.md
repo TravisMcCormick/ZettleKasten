@@ -30,6 +30,3 @@ Impressioning is a testament to the ingenuity required in lock picking, showcasi
 - [[Lock Types]]
 - [[Lock Pins]]
 - [[Lock Picking Tools]]
-- [[Lock Bumping]]
-- [[Decoding Locks]]
-- [[Single Pin Picking (SPP)]]

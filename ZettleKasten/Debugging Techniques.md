@@ -101,7 +101,3 @@
 - [[Automated Testing]]
 - [[Development Best Practices]]
 - [[Integrated Development Environments (IDEs)]]
-- [[IDA Pro]]
-- [[Ghidra]]
-- [[Binary Ninja]]
-- [[Monitoring and Logging]]

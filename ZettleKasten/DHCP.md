@@ -42,7 +42,3 @@ DHCP (Dynamic Host Configuration Protocol) is a network management protocol used
 - [[What is an IP Address]]
 - [[Static IP Address]]
 - [[Dynamic IP Address]]
-- [[Subnetting]]
-- [[Network Configuration Layout]]
-- [[Default Gateway]]
-- [[Firewalls and Network Security]]

@@ -27,5 +27,3 @@ The **Standard Deep Hook** is a deep hook-style lock pick with added length, des
 - [[Offset Hooks]]
 - [[Single Pin Picking (SPP)]]
 - [[Peterson Reach Lock Pick]]
-- [[Deforest Diamond Lock Pick]]
-- [[Lock Picking Tools]]

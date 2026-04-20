@@ -33,6 +33,3 @@ Combining multiple security measures creates a layered defense, significantly re
 - [[High-Security Lock Features]]
 - [[Access Control Systems]]
 - [[Alarm Systems and Lock Security]]
-- [[Biometric Locks]]
-- [[Smart Locks]]
-- [[Lock Picking Techniques]]

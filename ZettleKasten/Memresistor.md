@@ -56,5 +56,3 @@ Memristors remain largely in research and development phase, with some commercia
 - [[Data Storage Technologies]]
 - [[Computer Hardware Components]]
 - [[CPU (Central Processing Unit)]]
-- [[Computer Architecture Basics]]
-

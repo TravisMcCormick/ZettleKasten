@@ -4,3 +4,9 @@
     - **Online Games:** Quick updates are needed to keep the game running smoothly.
     - **Live Streaming:** Videos and audio need to be sent in real-time, so a few lost packets won’t ruin the experience.
 - **Example:** Think of UDP like shouting messages across a playground. It’s fast, but sometimes your friends might not hear every word you say.
+---
+
+### **Related Notes**
+
+- [[TCP vs UDP]]
+

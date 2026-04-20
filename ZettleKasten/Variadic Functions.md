@@ -20,3 +20,9 @@ func main() {
 
 - Use ...type in the parameter list to accept a variable number of arguments.
 - Inside the function, the variadic parameter behaves like a slice.
+---
+
+### **Related Notes**
+
+- [[Go Functions Overview]]
+

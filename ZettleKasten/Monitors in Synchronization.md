@@ -48,5 +48,3 @@ Monitors provide a higher-level abstraction than mutexes and semaphores, making 
 - [[Semaphores]]
 - [[Kernel vs. User Space Synchronization]]
 - [[Deadlocks and Starvation]]
-- [[Critical Section Problem]]
-- [[Mutual Exclusion]]

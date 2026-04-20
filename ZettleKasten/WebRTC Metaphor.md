@@ -9,7 +9,7 @@ Think of WebRTC as two friends (let’s call them Alice and Bob) who want to hav
     
 2. **Gathering Possible Paths (ICE Candidates)**
     - Before heading to the park, Alice checks all the possible routes from her house: walking through the alley, taking the main road, or even bicycling around the block. Bob does the same from his side. Each route is written on a slip of paper (an “ICE candidate”), showing a potential path. They share these slips through the mutual friend.
-    - This maps to ICE: both browsers list all their local IPs and ports (host candidates) and ask a helper ([[STUN Server]]) what their public addresses are (server‐reflexive). If none of those work, they prepare a fallback route ([[TURN Server]]), like paying someone to drive them together.
+    - This maps to ICE: both browsers list all their local IPs and ports (host candidates) and ask a helper ([[STUN Server]]) what their public addresses are (server‐reflexive). If none of those work, they prepare a fallback route (TURN Server), like paying someone to drive them together.
     
 3. **Choosing the Best Route (ICE Connectivity Checks)**
     - Alice and Bob’s notes list route A, B, and C. They each start testing which path works: maybe walking down the alley is blocked, but the main road is clear. Eventually, they discover that taking a short bike ride (the TURN relay) is the only possible way because a big fence (a strict firewall) blocks all other paths. Once they settle on that, they agree to meet via that route.

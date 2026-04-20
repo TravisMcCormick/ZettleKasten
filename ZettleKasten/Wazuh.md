@@ -199,8 +199,3 @@
 - [[Intrusion Detection Systems (IDS)]]
 - [[Splunk]]
 - [[Snort]]
-- [[Monitoring and Logging]]
-- [[Incident Response Process]]
-- [[Network Security Best Practices]]
-- [[Enable Logging and Auditing]]
-

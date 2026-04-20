@@ -34,6 +34,3 @@ Investing in high-security locks is a proactive measure to safeguard valuable as
 - [[Anti-Pick Features in Locks]]
 - [[Biometric Locks]]
 - [[Smart Locks]]
-- [[Lock Picking Techniques]]
-- [[Lock Bumping]]
-- [[Lock Picking Tools]]

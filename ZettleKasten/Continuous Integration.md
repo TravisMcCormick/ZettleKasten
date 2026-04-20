@@ -55,8 +55,3 @@
 - [[CI - CD pipeline]]
 - [[DevOps Practices]]
 - [[Automated Testing]]
-- [[Git]]
-- [[Version Control Systems]]
-- [[Build Automation Tools]]
-- [[Configuration Management]]
-- [[Development Best Practices]]

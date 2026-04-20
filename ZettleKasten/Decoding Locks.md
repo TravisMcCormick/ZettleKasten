@@ -36,7 +36,3 @@ Decoding is a blend of analytical thinking and technical skill, providing an alt
 - [[Advanced Lock Picking Techniques]]
 - [[Impressioning]]
 - [[Single Pin Picking (SPP)]]
-- [[Lock Picking]]
-- [[Lock Types]]
-- [[Lock Picking Tools]]
-- [[High-Security Locks]]

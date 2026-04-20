@@ -39,4 +39,3 @@
 - [[Data Backup Strategies]]
 - [[Data Storage Technologies]]
 - [[Data Transfer Protocols]]
-- [[Secure Coding Practices]]

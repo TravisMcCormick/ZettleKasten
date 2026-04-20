@@ -48,5 +48,3 @@ Git is a distributed version control system widely used for tracking changes in 
 - [[CI - CD pipeline]]
 - [[Continuous Integration]]
 - [[DevOps Practices]]
-- [[Development Best Practices]]
-- [[Build Automation Tools]]

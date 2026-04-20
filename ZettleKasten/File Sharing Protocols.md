@@ -43,6 +43,3 @@ Choosing the right file sharing protocol is crucial for balancing security, spee
 - [[Data Transfer Protocols]]
 - [[HTTP Protocol]]
 - [[HTTPS Protocol]]
-- [[Networking Protocols]]
-- [[Network Attached Storage (NAS)]]
-- [[Cloud Storage Solutions]]

@@ -37,8 +37,10 @@ Top-Level Domains (TLDs) are the highest level in the hierarchical Domain Name S
 - **SEO Considerations:** Some believe certain TLDs may have advantages in search engine optimization, though search engines strive for neutrality across TLDs.
 - **Geographical Targeting:** ccTLDs can help target specific regional audiences effectively.
 
+---
+
 ### **Related Notes**
 
-- DNS Zone Transfer
-- DHCP
-- Firewalls and Network Security
+- [[DNS (Domain Name System)]]
+- [[DNS Security Extensions (DNSSEC)]]
+

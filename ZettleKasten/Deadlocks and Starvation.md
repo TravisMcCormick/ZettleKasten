@@ -44,8 +44,3 @@ Deadlocks and starvation are critical issues that can severely impact system rel
 - [[Mutexes]]
 - [[Synchronization Primitives]]
 - [[Critical Section Problem]]
-- [[Priority Inversion]]
-- [[Classic Synchronization Problems]]
-- [[Mutual Exclusion]]
-- [[Concurrency and Parallelism]]
-- [[Best Practices in Synchronization]]

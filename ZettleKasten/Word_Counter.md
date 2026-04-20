@@ -43,3 +43,9 @@ func main() {
 ```
 
 ---
+---
+
+### **Related Notes**
+
+- [[Cursor AI Architectural Principles]]
+

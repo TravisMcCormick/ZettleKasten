@@ -14,7 +14,3 @@ A series of automated stages (build, test, deploy) triggered by code changes to 
 - [[Continuous Deployment]]
 - [[DevOps Practices]]
 - [[Automated Testing]]
-- [[Build Automation Tools]]
-- [[Git]]
-- [[Declarative playbooks]]
-- [[Infrastructure as Code]]

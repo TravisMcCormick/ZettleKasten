@@ -14,5 +14,3 @@ The machine from which Ansible playbooks are executed against managed hosts in a
 - [[Ansible-driven deployment]]
 - [[Declarative playbooks]]
 - [[Configuration Management]]
-- [[DevOps Practices]]
-- [[Infrastructure as Code]]

@@ -54,6 +54,3 @@
 - [[Authentication Mechanisms]]
 - [[Cryptographic Protocols]]
 - [[Active Directory Integration]]
-- [[Digital Certificates]]
-- [[Access Control Systems]]
-- [[Implement Two-Factor Authentication (2FA)]]

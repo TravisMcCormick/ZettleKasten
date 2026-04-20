@@ -24,5 +24,3 @@ A **Bias Against Multiple Lock Picks** is the preconceived notion that owning nu
 - [[Importance of Practice in Lock Picking]]
 - [[General Advice on Lock Picking Tools]]
 - [[Lock Picking Techniques]]
-- [[Single Pin Picking (SPP)]]
-- [[Raking Techniques]]

@@ -165,3 +165,9 @@
     Sort `pm2 ls` output by a given field and order.
 - `--no-autostart` / `--no-autorestart` / `--no-vizion` / `--no-pmx` / `--no-automation` / `--no-treekill`  
     Disable various PM2 features on start.
+---
+
+### **Related Notes**
+
+- [[PM2]]
+

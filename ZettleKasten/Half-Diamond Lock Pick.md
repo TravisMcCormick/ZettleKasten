@@ -27,5 +27,3 @@ The **Half-Diamond Lock Pick** is a hybrid tool combining features of the gem an
 - [[Offset Hooks]]
 - [[Deforest Diamond Lock Pick]]
 - [[Single Pin Picking (SPP)]]
-- [[Short Hooks]]
-- [[Lock Picking Tools]]

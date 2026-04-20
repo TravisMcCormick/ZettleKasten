@@ -26,5 +26,3 @@ The **City Rake**, resembling a city skyline, is a specialized rake designed for
 - [[Rocking Rakes]]
 - [[Raking Techniques]]
 - [[Zipping Rakes]]
-- [[Raking Techniques]]
-- [[Raking Techniques]]

@@ -18,4 +18,10 @@ PersistentKeepalive = 25
 AllowedIPs serves as both routing and ACL; PersistentKeepalive counters NAT timeouts.
 
 ---
-### **Related notes:**  
+### **Related notes:**
+---
+
+### **Related Notes**
+
+- [[WireGuard Overview]]
+

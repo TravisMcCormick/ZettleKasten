@@ -21,6 +21,3 @@
 - [[Ansible-driven deployment]]
 - [[Ansible control node]]
 - [[Configuration Management]]
-- [[Infrastructure as Code]]
-- [[DevOps Practices]]
-- [[idempotent provisioning]]

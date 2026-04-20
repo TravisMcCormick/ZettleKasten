@@ -39,8 +39,3 @@ Firewalls are security devices or software that monitor and control incoming and
 - [[Types of Firewalls]]
 - [[Packet Filtering Firewall]]
 - [[Next-Generation Firewall (NGFW)]]
-- [[Firewall Configuration Best Practices]]
-- [[Configure Firewall Rules]]
-- [[Firewall Logs and Monitoring]]
-- [[Intrusion Detection Systems (IDS)]]
-- [[Network Security Best Practices]]

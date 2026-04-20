@@ -33,6 +33,5 @@ A **Peer-to-Peer (P2P) Connection** in WebRTC is the direct data path between tw
 ---
 ### Related Notes
 
-- **[[WebRTC]]** is the overarching protocol suite.
-- **[[WebRTC Metaphor]]** provides a real-world analogy to understand how WebRTC pieces fit together.
-- **[[ICE Candidate]], [[STUN Server]], [[TURN Server]], [[P2P Connection]]** are sub-concepts that live under the “NAT/Firewall Traversal” and “Transport” sections of the main **WebRTC** note.
+- **[[WebRTC]]** — parent protocol suite (signaling, ICE, transports, and security).
+- **[[WebRTC Metaphor]]** — narrative walkthrough of how the pieces fit together.

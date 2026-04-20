@@ -45,7 +45,3 @@
 - [[Network Attached Storage (NAS)]]
 - [[Cloud Storage Solutions]]
 - [[Data Backup Strategies]]
-- [[Data Integrity Mechanisms]]
-- [[Memory Hierarchy]]
-- [[MongoDB]]
-- [[Cloud Computing]]

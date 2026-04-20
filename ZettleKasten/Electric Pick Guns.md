@@ -36,4 +36,3 @@ Electric pick guns are valuable tools for those seeking to enhance their lock-pi
 - [[Lock Bumping]]
 - [[Lock Picking Tools]]
 - [[Raking Techniques]]
-- [[Lock Picking Techniques]]

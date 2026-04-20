@@ -31,7 +31,3 @@ Avoiding deadlocks and starvation involves implementing strategies in concurrent
 - [[Best Practices in Synchronization]]
 - [[Critical Section Problem]]
 - [[Mutexes]]
-- [[Synchronization Primitives]]
-- [[Classic Synchronization Problems]]
-- [[Monitors in Synchronization]]
-- [[Kernel vs. User Space Synchronization]]

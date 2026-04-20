@@ -37,6 +37,3 @@ Lock Sport transforms lock picking from a mere technical skill into a rewarding 
 - [[Ethics in Lock Picking]]
 - [[Legal Aspects of Lock Picking]]
 - [[Importance of Practice in Lock Picking]]
-- [[Responsible Use of Lock Picking]]
-- [[Lock Picking]]
-- [[Lock Picking Techniques]]

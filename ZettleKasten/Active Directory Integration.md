@@ -35,5 +35,3 @@ Integrating systems with Active Directory significantly streamlines user managem
 - [[Authentication and Authorization]]
 - [[Network Security Best Practices]]
 - [[What is a Network]]
-- [[DHCP]]
-- [[DNS (Domain Name System)]]

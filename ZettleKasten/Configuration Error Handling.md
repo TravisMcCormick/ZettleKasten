@@ -24,6 +24,3 @@ Error handling in network configuration:
 - [[IP Address Validation]]
 - [[Subnet Mask Validation]]
 - [[Gateway Validation Rules]]
-- [[DNS Configuration]]
-- [[Network Interface Management]]
-- [[Configuration Error Handling]]

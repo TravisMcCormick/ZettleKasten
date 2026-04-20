@@ -32,8 +32,3 @@
 - [[TLS - SSL Protocols]]
 - [[Transport Layer Security (TLS)]]
 - [[HTTPS Protocol]]
-- [[Cryptographic Algorithms]]
-- [[Hash Functions]]
-- [[Cryptographic Key Management]]
-- [[Authentication and Authorization]]
-- [[PGP]]

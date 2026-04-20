@@ -33,7 +33,3 @@ Understanding the difference between concurrency and parallelism is crucial for 
 - [[Synchronization Primitives]]
 - [[Mutexes]]
 - [[Mutual Exclusion]]
-- [[Critical Section Problem]]
-- [[Go Concurrency Overview]]
-- [[Thread vs. Goroutine]]
-- [[The Go Scheduler (G-M-P Model)]]

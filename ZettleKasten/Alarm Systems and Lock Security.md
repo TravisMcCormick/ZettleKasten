@@ -45,5 +45,3 @@ Alarm systems are indispensable in modern security setups, offering dynamic and 
 - [[Surveillance and Lock Security]]
 - [[High-Security Lock Features]]
 - [[Anti-Pick Features in Locks]]
-- [[Security Measures Against Lock Picking]]
-- [[Biometric Locks]]

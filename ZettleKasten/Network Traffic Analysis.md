@@ -37,10 +37,11 @@
 
 Effective network traffic analysis is essential for maintaining a secure and efficient network environment. By proactively monitoring and analyzing traffic, organizations can swiftly address security threats and optimize their network performance to meet evolving demands.
 
+---
+
 ### **Related Notes**
 
-- [Security Information and Event Management (SIEM)](Security%20Information%20and%20Event%20Management%20(SIEM).md)
-- [Intrusion Detection Systems (IDS)](Intrusion%20Detection%20Systems%20(IDS).md)
-- [Firewall Logs and Monitoring](Firewall%20Logs%20and%20Monitoring.md)
-- [Network Security Best Practices](Network%20Security%20Best%20Practices.md)
-- [What is a Network](What%20is%20a%20Network.md)
+- [[SIEM]]
+- [[Monitoring and Logging]]
+- [[Intrusion Detection Systems (IDS)]]
+

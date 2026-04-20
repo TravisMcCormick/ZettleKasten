@@ -24,5 +24,3 @@ An **Application Programming Interface (API)** is a defined set of protocols, ro
 - [[HTTP Protocol]]
 - [[HTTPS Protocol]]
 - [[Authentication and Authorization]]
-- [[Microservices Architecture]]
-- [[Swagger for Golang]]

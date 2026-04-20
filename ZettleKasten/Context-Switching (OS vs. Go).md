@@ -37,8 +37,3 @@
 - [[What Is a Goroutine]]
 - [[What Is an OS Thread]]
 - [[Thread vs. Goroutine]]
-- [[The Go Scheduler (G-M-P Model)]]
-- [[Goroutine Lifecycle & Natural Termination]]
-- [[Processes and Threads]]
-- [[Concurrency and Parallelism]]
-- [[Performance Considerations]]

@@ -73,5 +73,3 @@
 - [[Linux Command Line Basics]]
 - [[Text Processing Utilities]]
 - [[Development Best Practices]]
-- [[Alacritty terminal]]
-- [[tmux]]

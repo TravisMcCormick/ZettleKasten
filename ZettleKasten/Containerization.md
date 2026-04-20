@@ -76,5 +76,3 @@
 - [[Container Orchestration with Kubernetes]]
 - [[DevOps Practices]]
 - [[Virtualization vs. Containerization]]
-- [[CI - CD pipeline]]
-- [[Implement Network Segmentation]]

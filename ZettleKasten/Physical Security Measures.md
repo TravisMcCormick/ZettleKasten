@@ -74,8 +74,3 @@
 - [[Biometric Locks]]
 - [[Lock Picking]]
 - [[High-Security Locks]]
-- [[Alarm Systems and Lock Security]]
-- [[Surveillance and Lock Security]]
-- [[Hardware Security]]
-- [[TPM]]
-- [[Disaster Recovery Planning]]

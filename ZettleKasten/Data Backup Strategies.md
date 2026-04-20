@@ -77,6 +77,3 @@
 - [[Cloud Storage Solutions]]
 - [[Data Storage Technologies]]
 - [[Backup Configurations]]
-- [[Data Integrity Mechanisms]]
-- [[Disaster Recovery Planning]]
-- [[Cloud Computing]]

@@ -46,4 +46,3 @@ Memory limit enforcement is essential for production systems. It's better to hav
 - [[memory footprint]]
 - [[PM2]]
 - [[Docker]]
-- [[Container Orchestration with Kubernetes]]

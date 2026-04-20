@@ -51,8 +51,3 @@
 - [[Malware Analysis Techniques]]
 - [[IDA Pro]]
 - [[Ghidra]]
-- [[Binary Ninja]]
-- [[Debugging Techniques]]
-- [[Debugging Tools]]
-- [[Assembly Language Fundamentals]]
-- [[Anti-Debugging Techniques]]

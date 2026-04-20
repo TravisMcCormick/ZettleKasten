@@ -77,8 +77,4 @@
 - [[Computer Hardware Components]]
 - [[Computer Architecture Basics]]
 - [[Monitoring and Logging]]
-- [[Performance Considerations]]
-- [[System Maintenance]]
-- [[Dark Silicon]]
-
 ---

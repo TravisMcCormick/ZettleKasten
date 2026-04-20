@@ -28,8 +28,3 @@ Effectively managing critical sections is essential for writing correct and effi
 - [[Synchronization Primitives]]
 - [[Mutexes]]
 - [[Concurrency and Parallelism]]
-- [[Deadlocks and Starvation]]
-- [[Avoiding Deadlocks and Starvation]]
-- [[Classic Synchronization Problems]]
-- [[Best Practices in Synchronization]]
-- [[Processes and Threads]]

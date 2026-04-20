@@ -52,5 +52,3 @@ Understanding the distinction between kernel and user space synchronization is c
 - [[Semaphores]]
 - [[Monitors in Synchronization]]
 - [[Implementation Details]]
-- [[Deadlocks and Starvation]]
-- [[Priority Inversion]]

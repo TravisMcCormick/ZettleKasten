@@ -45,5 +45,3 @@ Understanding the role of network nodes is fundamental to grasping how networks 
 - [[OSI Model Overview]]
 - [[MAC Addresses]]
 - [[Switches and Hubs]]
-- [[Routers]]
-- [[Networking Protocols]]

@@ -51,7 +51,6 @@
 ### Related Notes
 
 - [[Data Backup Strategies]]
+- [[Configuration Management]]
 - [[Data Integrity Mechanisms]]
 - [[Data Storage Technologies]]
-- [[Disaster Recovery Planning]]
-- [[Configuration Management]]

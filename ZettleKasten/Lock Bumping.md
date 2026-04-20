@@ -30,6 +30,3 @@ While lock bumping is a powerful technique, it underscores the importance of usi
 - [[Advanced Lock Picking Techniques]]
 - [[Electric Pick Guns]]
 - [[Lock Types]]
-- [[Lock Picking Techniques]]
-- [[High-Security Locks]]
-- [[Lock Bumping]]

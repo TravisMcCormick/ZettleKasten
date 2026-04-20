@@ -10,3 +10,9 @@ The network configuration interface consists of:
 4. Consistent styling with cyan accents and dark theme
 
 ---
+---
+
+### **Related Notes**
+
+- [[DHCP]]
+

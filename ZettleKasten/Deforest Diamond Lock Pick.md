@@ -27,5 +27,3 @@ The **Deforest Diamond** is an offset hook that merges the features of short hoo
 - [[Half-Diamond Lock Pick]]
 - [[Single Pin Picking (SPP)]]
 - [[Choosing Lock Picks]]
-- [[Deeper Hooks]]
-- [[Lock Picking Tools]]
